@@ -12,6 +12,6 @@ Welcome to the ARCCA training material.
 
 | Title | Description | Link |
 |-------|-------------|------|
-| *Supercomputing for Beginners* | Course covers why use HPC, accessing systems, using SLURM, loading software, file transfer and optimising resources. | [Link](https://arcca.github.io/intro-hpc) |
+| *Supercomputing for Beginners* | Course covers why use HPC, accessing systems, using SLURM, loading software, file transfer and optimising resources. | [Link](intro-hpc) |
 
 {% include links.md %}
