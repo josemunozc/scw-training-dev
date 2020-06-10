@@ -1,17 +1,17 @@
 ---
-layout: lesson
+layout: page
 root: .  # Is the only page that doesn't follow the pattern /:path/index.html
 permalink: index.html  # Is the only page that doesn't follow the pattern /:path/index.html
 ---
-FIXME: home page introduction
+
+Welcome to the ARCCA training material.
 
 <!-- this is an html comment -->
 
 {% comment %} This is a comment in Liquid {% endcomment %}
 
-> ## Prerequisites
->
-> FIXME
-{: .prereq}
+| Title | Description | Link |
+|-------|-------------|------|
+| *Supercomputing for Beginners* | Course covers why use HPC, accessing systems, using SLURM, loading software, file transfer and optimising resources. | [Link](https://arcca.github.io/intro-hpc) |
 
 {% include links.md %}
