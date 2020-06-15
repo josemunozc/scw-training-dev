@@ -18,17 +18,17 @@ Welcome to the ARCCA training material.
 
 | Title | Description | Link |
 |-------|-------------|------|
-| Software environment | How the software is managed | [Link](https://cardiff.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=27a94fe4-a21a-44ef-b531-aab1008bdfea) |
-| Managing a SLURM job | Examples of managing SLURM jobs | [Link](https://cardiff.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=66e500f6-7a27-4934-b7bb-aab000c98734) |
-| Running a SLURM job | Examples of running SLURM jobs | [Link](https://cardiff.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=1a6cb922-3408-402d-a40c-aab000c65a7f) |
-| Filesystem options | Using filesystems | [Link](https://cardiff.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=65813e1f-11e8-45b1-a41c-aab000bc329c) |
-| Using CUDA | Examples of using CUDA on GPUs | [Link](https://cardiff.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=d06cbd15-8df2-429b-9ad5-aab000b8c9c2) |
-| Compiling code on Hawk | Examples of compiling code | [Link](https://cardiff.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=4d293177-afa3-499c-878c-aab000af27de) |
-| User registration on MySCW | Howto register as a user | [Link](https://cardiff.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=5eb6b3c5-eadb-4970-a031-aa7f01848af0) |
-| Project management on MySCW | Howto manage projects | [Link](https://cardiff.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=79afc818-7d7e-4617-9836-aa7f01804e1a) |
-| Accessing Hawk on Mac | Howto access systems on Mac | [Link](https://cardiff.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=9f932298-5dea-49db-8300-aa7f01696473) |
-| Accessing Hawk on Linux | Howto access system on Linux | [Link](https://cardiff.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=eb58f2a0-ce45-4e35-841a-aa7f00fbd6d4) |
-| Accessing Hawk on Windows | Howto access system on Windows | [Link](https://cardiff.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=0e0aa59f-3b51-4858-9cf9-aa7800fdc2e4) |
+| Software environment | How the software is managed | [Link](https://cardiff.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=45101437-7896-4b0e-8b18-aab200de7cf8) |
+| Managing a SLURM job | Examples of managing SLURM jobs | [Link](https://cardiff.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=d39acfd0-99bb-4106-a92f-aab200de7d70) |
+| Running a SLURM job | Examples of running SLURM jobs | [Link](https://cardiff.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=b1e4c706-43b2-40f1-ae3d-aab200de7e28) |
+| Filesystem options | Using filesystems | [Link](https://cardiff.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=296bf28c-fd9e-4d8f-b5a9-aab200de7ea5) |
+| Using CUDA | Examples of using CUDA on GPUs | [Link](https://cardiff.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=d6df71cd-b71b-4b31-87d5-aab200de7f55) |
+| Compiling code on Hawk | Examples of compiling code | [Link](https://cardiff.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=449d769c-fc69-49cf-b795-aab200de7fe2) |
+| User registration on MySCW | Howto register as a user | [Link](https://cardiff.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=88d0d5d5-d80c-4fa4-956a-aab000cd4d28) |
+| Project management on MySCW | Howto manage projects | [Link](https://cardiff.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=22586477-e445-47c5-89f2-aab000cd4dd4) |
+| Accessing Hawk on Mac | Howto access systems on Mac | [Link](https://cardiff.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=227bf3fa-9334-4c72-90a0-aab000cd4e8a) |
+| Accessing Hawk on Linux | Howto access system on Linux | [Link](https://cardiff.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=1c5f795d-684f-4e43-8bd8-aab000cd4f05) |
+| Accessing Hawk on Windows | Howto access system on Windows | [Link](https://cardiff.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=6f42b278-cc56-404a-bcc4-aab000cd4fb2) |
  
 
 {% include links.md %}
