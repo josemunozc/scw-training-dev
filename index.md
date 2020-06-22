@@ -13,6 +13,7 @@ Welcome to the ARCCA training material.
 | Title | Description | Link |
 |-------|-------------|------|
 | *Supercomputing for Beginners* | Course covers why use HPC, accessing systems, using SLURM, loading software, file transfer and optimising resources. | [Link](hpc-intro) |
+| *SLURM: Advanced Topics* | Course covers extra material to interface with HPC more effectively. | [Link](slurm_advanced_topics) |
 
 ## Videos
 
