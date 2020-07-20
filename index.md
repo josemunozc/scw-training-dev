@@ -16,6 +16,7 @@ Welcome to the ARCCA training material.
 | *SLURM: Advanced Topics* | Course covers extra material to interface with HPC more effectively. | [Link](slurm_advanced_topics) |
 | *Advanced use of Hawk the Supercomputer* | Course covers extra material for developers and frequent users. | [Link](hpc-advanced) |
 | *Introduction to Parallel Programming using OpenMP* | Course covers OpenMP and shared memory parallelism. | [Link](Introduction-to-Parallel-Programming-using-OpenMP) |
+| *Introduction to Parallel Programming using MPI* | Course covers MPI and distributed memory parallelism. | [Link](intro-mpi) |
 
 ## Videos
 
