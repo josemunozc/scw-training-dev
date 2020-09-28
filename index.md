@@ -22,9 +22,11 @@ Welcome to the ARCCA training material.
 
 ## Registration
 
-Staff can register through CORE HR Portal.
+ARCHER courses will be organised by ARCHER and links to registration pages will be placed here when available.
 
-To attend the courses please refer to the Eventbrite links below.
+Staff can register for ARCCA courses through CORE HR Portal.
+
+To attend the ARCCA courses please refer to the Eventbrite links below.
 
 | Title | Description | Registration Link |
 |-------|-------------|-------------------|
