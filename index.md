@@ -10,6 +10,8 @@ Welcome to the ARCCA training material.
 
 {% comment %} This is a comment in Liquid {% endcomment %}
 
+## Current material
+
 | Title | Description | Link |
 |-------|-------------|------|
 | *Supercomputing for Beginners* | Course covers why use HPC, accessing systems, using SLURM, loading software, file transfer and optimising resources. | [Link](hpc-intro) |
@@ -20,7 +22,23 @@ Welcome to the ARCCA training material.
 
 ## Registration
 
-The process to register on the courses will be available soon.
+Staff can register through CORE HR Portal.
+
+To attend the courses please refer to the Eventbrite links below.
+
+| Title | Description | Registration Link |
+|-------|-------------|-------------------|
+| *Advanced Research Computing at Cardiff University* | Presentation on what Advanced Research Computing can provide. | [Eventbrite](https://www.eventbrite.co.uk/e/arc-advanced-research-computing-at-cardiff-university-tickets-123091029583) |
+| *An Introduction to Linux with Command Line (& Windows)* | Learn how to use the Linux command line. | [Eventbrite](https://www.eventbrite.co.uk/e/arc-an-introduction-to-linux-with-command-line-windows-tickets-123094162955)
+| *An Introduction to Linux Shell Scripting* | Further your knowledge with Linux shell scripting. | [Eventbrite](https://www.eventbrite.co.uk/e/arc-an-introduction-to-linux-shell-scripting-tickets-123095292333)
+| *Supercomputing for Beginners* | Learn to run jobs on the University supercomputer. | [Eventbrite](https://www.eventbrite.co.uk/e/arc-supercomputing-for-beginners-tickets-123095839971) |
+| *Slurm – Advanced Topics* | Find out further information on using Slurm and the supercomputer. | [Eventbrite](https://www.eventbrite.co.uk/e/arc-slurm-advanced-topics-tickets-123096409675) |
+| *Introduction to Parallel Programming using OpenMP* | Learn to use OpenMP to parallelise your code. | [Eventbrite](https://www.eventbrite.co.uk/e/arc-introduction-to-parallel-programming-using-openmp-tickets-123096816893) |
+| *Introduction to Parallel Programming using MPI* | Learn to use MPI to parallelise your code. | [Eventbrite](https://www.eventbrite.co.uk/e/arc-introduction-to-parallel-programming-using-mpi-tickets-123097234141)
+| *Introduction to Machine Learning Applications* | Find out how to run machine learning applications on the supercomputer. | [Eventbrite](https://www.eventbrite.co.uk/e/arc-introduction-to-machine-learning-applications-tickets-123097438753) |
+| *Introduction to containers and Singularity* | Discover how containers can help your workflow. | [Eventbrite](https://www.eventbrite.co.uk/e/arc-introduction-to-containers-and-singularity-tickets-123097753695)
+
+If you have any issues with the above registration methods please email [arcca@cardiff.ac.uk](mailto:arcca@cardiff.ac.uk).
 
 ## Videos
 
