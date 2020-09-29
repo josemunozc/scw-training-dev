@@ -28,17 +28,17 @@ Staff can register for ARCCA courses through CORE HR Portal.
 
 To attend the ARCCA courses please refer to the Eventbrite links below.
 
-| Title | Description | Registration Link |
-|-------|-------------|-------------------|
-| *Advanced Research Computing at Cardiff University* | Presentation on what Advanced Research Computing can provide. | [Eventbrite](https://www.eventbrite.co.uk/e/arc-advanced-research-computing-at-cardiff-university-tickets-123091029583) |
-| *An Introduction to Linux with Command Line (& Windows)* | Learn how to use the Linux command line. | [Eventbrite](https://www.eventbrite.co.uk/e/arc-an-introduction-to-linux-with-command-line-windows-tickets-123094162955)
-| *An Introduction to Linux Shell Scripting* | Further your knowledge with Linux shell scripting. | [Eventbrite](https://www.eventbrite.co.uk/e/arc-an-introduction-to-linux-shell-scripting-tickets-123095292333)
-| *Supercomputing for Beginners* | Learn to run jobs on the University supercomputer. | [Eventbrite](https://www.eventbrite.co.uk/e/arc-supercomputing-for-beginners-tickets-123095839971) |
-| *Slurm – Advanced Topics* | Find out further information on using Slurm and the supercomputer. | [Eventbrite](https://www.eventbrite.co.uk/e/arc-slurm-advanced-topics-tickets-123096409675) |
-| *Introduction to Parallel Programming using OpenMP* | Learn to use OpenMP to parallelise your code. | [Eventbrite](https://www.eventbrite.co.uk/e/arc-introduction-to-parallel-programming-using-openmp-tickets-123096816893) |
-| *Introduction to Parallel Programming using MPI* | Learn to use MPI to parallelise your code. | [Eventbrite](https://www.eventbrite.co.uk/e/arc-introduction-to-parallel-programming-using-mpi-tickets-123097234141)
-| *Introduction to Machine Learning Applications* | Find out how to run machine learning applications on the supercomputer. | [Eventbrite](https://www.eventbrite.co.uk/e/arc-introduction-to-machine-learning-applications-tickets-123097438753) |
-| *Introduction to containers and Singularity* | Discover how containers can help your workflow. | [Eventbrite](https://www.eventbrite.co.uk/e/arc-introduction-to-containers-and-singularity-tickets-123097753695)
+| Title | Description | Date | Time | Number of sessions | Registration Link |
+|-------|-------------|------|------|:------------------:|-------------------|
+| *Advanced Research Computing at Cardiff University* | Presentation on what Advanced Research Computing can provide. | 08/Oct/2020 | 11:00 to 12:00 (BST) | 1 | [Eventbrite](https://www.eventbrite.co.uk/e/arc-advanced-research-computing-at-cardiff-university-tickets-123091029583) |
+| *An Introduction to Linux with Command Line (& Windows)* | Learn how to use the Linux command line. | 12 to 15 Oct 2020 | 11:00 to 12:00 (BST) | 4 | [Eventbrite](https://www.eventbrite.co.uk/e/arc-an-introduction-to-linux-with-command-line-windows-tickets-123094162955)
+| *An Introduction to Linux Shell Scripting* | Further your knowledge with Linux shell scripting. | 19 to 22 Oct 2020 | 11:00 to 12:00 (BST) | 4 | [Eventbrite](https://www.eventbrite.co.uk/e/arc-an-introduction-to-linux-shell-scripting-tickets-123095292333)
+| *Supercomputing for Beginners* | Learn to run jobs on the University supercomputer. | 26 to 29 Oct 2020 | 11:00 to 12:00 (BST) | 4 | [Eventbrite](https://www.eventbrite.co.uk/e/arc-supercomputing-for-beginners-tickets-123095839971) |
+| *Slurm – Advanced Topics* | Find out further information on using Slurm and the supercomputer. | 9 to 12 Oct 2020 | 11:00 to 12:00 (BST) | 4 | [Eventbrite](https://www.eventbrite.co.uk/e/arc-slurm-advanced-topics-tickets-123096409675) |
+| *Introduction to Parallel Programming using OpenMP* | Learn to use OpenMP to parallelise your code. | 23 to 26 Oct 2020 | 11:00 to 12:00 (BST) | 4 | [Eventbrite](https://www.eventbrite.co.uk/e/arc-introduction-to-parallel-programming-using-openmp-tickets-123096816893) |
+| *Introduction to Parallel Programming using MPI* | Learn to use MPI to parallelise your code. | 30 Nov 2020 to 3 Dec 2020 | 11:00 to 12:00 (BST) | 4 | [Eventbrite](https://www.eventbrite.co.uk/e/arc-introduction-to-parallel-programming-using-mpi-tickets-123097234141)
+| *Introduction to Machine Learning Applications* | Find out how to run machine learning applications on the supercomputer. | 7 to 10 Dec 2020 | 11:00 to 12:00 (BST) | 4 | [Eventbrite](https://www.eventbrite.co.uk/e/arc-introduction-to-machine-learning-applications-tickets-123097438753) |
+| *Introduction to containers and Singularity* | Discover how containers can help your workflow. | 14 to 17 Dec 2020 | 11:00 to 12:00 (BST) | 4 | [Eventbrite](https://www.eventbrite.co.uk/e/arc-introduction-to-containers-and-singularity-tickets-123097753695)
 
 If you have any issues with the above registration methods please email [arcca@cardiff.ac.uk](mailto:arcca@cardiff.ac.uk).
 
