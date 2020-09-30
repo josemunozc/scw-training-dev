@@ -39,6 +39,7 @@ To attend the ARCCA courses please refer to details below and then register usin
 | *Introduction to Parallel Programming using MPI* | Learn to use MPI to parallelise your code. | 30 Nov 2020 to 3 Dec 2020 | 11:00 to 12:00 (BST) | 4 |
 | *Introduction to Machine Learning Applications* | Find out how to run machine learning applications on the supercomputer. | 7 to 10 Dec 2020 | 11:00 to 12:00 (BST) | 4 |
 | *Introduction to containers and Singularity* | Discover how containers can help your workflow. | 14 to 17 Dec 2020 | 11:00 to 12:00 (BST) | 4 |
+| *Introduction to workflow tool NextFlow* | Find out how to manage workflows within a the NextFlow framework. | On request, please register if interested. | | |
 
 If you have any issues with the above registration methods please email [arcca@cardiff.ac.uk](mailto:arcca@cardiff.ac.uk).
 
