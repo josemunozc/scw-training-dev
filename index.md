@@ -26,19 +26,19 @@ ARCHER courses will be organised by ARCHER and links to registration pages will 
 
 Staff can register for ARCCA courses through CORE HR Portal.
 
-To attend the ARCCA courses please refer to the Eventbrite links below.
+To attend the ARCCA courses please refer to details below and then register using this [link](https://forms.office.com/Pages/ResponsePage.aspx?id=MEu3vWiVVki9vwZ1l3j8vPkaircuf9dEpb9_FS8UkjNURDMwM0hPNEFBSjFLNFZCOFY5UFdEWk9DOS4u).
 
-| Title | Description | Date | Time | Number of sessions | Registration Link |
-|-------|-------------|------|------|:------------------:|-------------------|
-| *Advanced Research Computing at Cardiff University* | Presentation on what Advanced Research Computing can provide. | 08/Oct/2020 | 11:00 to 12:00 (BST) | 1 | TBA |
-| *An Introduction to Linux with Command Line (& Windows)* | Learn how to use the Linux command line. | 12 to 15 Oct 2020 | 11:00 to 12:00 (BST) | 4 | TBA |
-| *An Introduction to Linux Shell Scripting* | Further your knowledge with Linux shell scripting. | 19 to 22 Oct 2020 | 11:00 to 12:00 (BST) | 4 | TBA |
-| *Supercomputing for Beginners* | Learn to run jobs on the University supercomputer. | 26 to 29 Oct 2020 | 11:00 to 12:00 (BST) | 4 | TBA |
-| *Slurm – Advanced Topics* | Find out further information on using Slurm and the supercomputer. | 9 to 12 Oct 2020 | 11:00 to 12:00 (BST) | 4 | TBA |
-| *Introduction to Parallel Programming using OpenMP* | Learn to use OpenMP to parallelise your code. | 23 to 26 Oct 2020 | 11:00 to 12:00 (BST) | 4 | TBA |
-| *Introduction to Parallel Programming using MPI* | Learn to use MPI to parallelise your code. | 30 Nov 2020 to 3 Dec 2020 | 11:00 to 12:00 (BST) | 4 | TBA |
-| *Introduction to Machine Learning Applications* | Find out how to run machine learning applications on the supercomputer. | 7 to 10 Dec 2020 | 11:00 to 12:00 (BST) | 4 | TBA |
-| *Introduction to containers and Singularity* | Discover how containers can help your workflow. | 14 to 17 Dec 2020 | 11:00 to 12:00 (BST) | 4 | TBA |
+| Title | Description | Date | Time | Number of sessions | 
+|-------|-------------|------|------|:------------------:|
+| *Advanced Research Computing at Cardiff University* | Presentation on what Advanced Research Computing can provide. | 08/Oct/2020 | 11:00 to 12:00 (BST) | 1 | 
+| *An Introduction to Linux with Command Line (& Windows)* | Learn how to use the Linux command line. | 12 to 15 Oct 2020 | 11:00 to 12:00 (BST) | 4 |
+| *An Introduction to Linux Shell Scripting* | Further your knowledge with Linux shell scripting. | 19 to 22 Oct 2020 | 11:00 to 12:00 (BST) | 4 |
+| *Supercomputing for Beginners* | Learn to run jobs on the University supercomputer. | 26 to 29 Oct 2020 | 11:00 to 12:00 (BST) | 4 |
+| *Slurm – Advanced Topics* | Find out further information on using Slurm and the supercomputer. | 9 to 12 Oct 2020 | 11:00 to 12:00 (BST) | 4 |
+| *Introduction to Parallel Programming using OpenMP* | Learn to use OpenMP to parallelise your code. | 23 to 26 Oct 2020 | 11:00 to 12:00 (BST) | 4 |
+| *Introduction to Parallel Programming using MPI* | Learn to use MPI to parallelise your code. | 30 Nov 2020 to 3 Dec 2020 | 11:00 to 12:00 (BST) | 4 |
+| *Introduction to Machine Learning Applications* | Find out how to run machine learning applications on the supercomputer. | 7 to 10 Dec 2020 | 11:00 to 12:00 (BST) | 4 |
+| *Introduction to containers and Singularity* | Discover how containers can help your workflow. | 14 to 17 Dec 2020 | 11:00 to 12:00 (BST) | 4 |
 
 If you have any issues with the above registration methods please email [arcca@cardiff.ac.uk](mailto:arcca@cardiff.ac.uk).
 
