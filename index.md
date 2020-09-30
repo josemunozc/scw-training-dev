@@ -30,7 +30,7 @@ To attend the ARCCA courses please refer to details below and then register usin
 
 | Title | Description | Date | Time | Number of sessions | 
 |-------|-------------|------|------|:------------------:|
-| *Advanced Research Computing at Cardiff University* | Presentation on what Advanced Research Computing can provide. | 08/Oct/2020 | 11:00 to 12:00 (BST) | 1 | 
+| *Advanced Research Computing at Cardiff University* | Presentation on what Advanced Research Computing can provide. | 8 Oct 2020 | 11:00 to 12:00 (BST) | 1 | 
 | *An Introduction to Linux with Command Line (& Windows)* | Learn how to use the Linux command line. | 12 to 15 Oct 2020 | 11:00 to 12:00 (BST) | 4 |
 | *An Introduction to Linux Shell Scripting* | Further your knowledge with Linux shell scripting. | 19 to 22 Oct 2020 | 11:00 to 12:00 (BST) | 4 |
 | *Supercomputing for Beginners* | Learn to run jobs on the University supercomputer. | 26 to 29 Oct 2020 | 11:00 to 12:00 (BST) | 4 |
