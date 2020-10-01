@@ -14,11 +14,11 @@ Welcome to the ARCCA training material.
 
 | Title | Description | Link |
 |-------|-------------|------|
-| *Supercomputing for Beginners* | Course covers why use HPC, accessing systems, using SLURM, loading software, file transfer and optimising resources. | [Link](hpc-intro) |
-| *Slurm: Advanced Topics* | Course covers extra material to interface with HPC more effectively. | [Link](slurm_advanced_topics) |
-| *Advanced use of Hawk the Supercomputer* | Course covers extra material for developers and frequent users. | [Link](hpc-advanced) |
-| *Introduction to Parallel Programming using OpenMP* | Course covers OpenMP and shared memory parallelism. | [Link](Introduction-to-Parallel-Programming-using-OpenMP) |
-| *Introduction to Parallel Programming using MPI* | Course covers MPI and distributed memory parallelism. | [Link](intro-mpi) |
+| *Supercomputing for Beginners* | Why use HPC? Accessing systems, using SLURM, loading software, file transfer and optimising resources. | [Link](hpc-intro) |
+| *Slurm: Advanced Topics* | Additional material to interface with HPC more effectively. | [Link](slurm_advanced_topics) |
+| *Advanced use of Hawk the Supercomputer* | Additional material for developers and frequent users. | [Link](hpc-advanced) |
+| *Introduction to Parallel Programming using OpenMP* | OpenMP and shared memory parallelism. | [Link](Introduction-to-Parallel-Programming-using-OpenMP) |
+| *Introduction to Parallel Programming using MPI* | MPI and distributed memory parallelism. | [Link](intro-mpi) |
 
 ## Registration
 
