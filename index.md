@@ -34,8 +34,8 @@ To attend the ARCCA courses please refer to details below and then register usin
 | *An Introduction to Linux with Command Line (& Windows)* | Learn how to use the Linux command line. | 12 to 15 Oct 2020 | 11:00 to 12:00 (BST) | 4 |
 | *An Introduction to Linux Shell Scripting* | Further your knowledge with Linux shell scripting. | 19 to 22 Oct 2020 | 11:00 to 12:00 (BST) | 4 |
 | *Supercomputing for Beginners* | Learn to run jobs on the University supercomputer. | 26 to 29 Oct 2020 | 11:00 to 12:00 (BST) | 4 |
-| *Slurm – Advanced Topics* | Find out further information on using Slurm and the supercomputer. | 9 to 12 Oct 2020 | 11:00 to 12:00 (BST) | 4 |
-| *Introduction to Parallel Programming using OpenMP* | Learn to use OpenMP to parallelise your code. | 23 to 26 Oct 2020 | 11:00 to 12:00 (BST) | 4 |
+| *Slurm – Advanced Topics* | Find out further information on using Slurm and the supercomputer. | 9 to 12 Nov 2020 | 11:00 to 12:00 (BST) | 4 |
+| *Introduction to Parallel Programming using OpenMP* | Learn to use OpenMP to parallelise your code. | 23 to 26 Nov 2020 | 11:00 to 12:00 (BST) | 4 |
 | *Introduction to Parallel Programming using MPI* | Learn to use MPI to parallelise your code. | 30 Nov 2020 to 3 Dec 2020 | 11:00 to 12:00 (BST) | 4 |
 | *Introduction to Machine Learning Applications* | Find out how to run machine learning applications on the supercomputer. | 7 to 10 Dec 2020 | 11:00 to 12:00 (BST) | 4 |
 | *Introduction to containers and Singularity* | Discover how containers can help your workflow. | 14 to 17 Dec 2020 | 11:00 to 12:00 (BST) | 4 |
