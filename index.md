@@ -22,7 +22,11 @@ Welcome to the ARCCA training material.
 
 ## Registration
 
-ARCHER courses will be organised by ARCHER and links to registration pages will be placed here when available.
+Working with ARCHER (latest UK national supercomputer centre), they provide courses that are useful for Cardiff researchers:
+
+| Title | Description | Date | Time | Number of sessions | Link |
+| ----- | ----------- | ---- | ---- |:------------------:| ---- |
+| *Software Carpentry* | Software Carpentry’s goal is to help scientists and engineers become more productive by teaching them basic computing skills like program design, version control, testing, and task automation. | 02 to 05 November | 10:00 to 13:00 (GMT) | 4 | [ARCHER](https://www.archer2.ac.uk/training/courses/201102-software-carpentry/) |
 
 To attend the ARCCA online courses please refer to details below and then register using this [**link**](https://forms.office.com/Pages/ResponsePage.aspx?id=MEu3vWiVVki9vwZ1l3j8vPkaircuf9dEpb9_FS8UkjNURDMwM0hPNEFBSjFLNFZCOFY5UFdEWk9DOS4u).
 
