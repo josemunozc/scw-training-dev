@@ -14,8 +14,8 @@ Welcome to the ARCCA training material.
 
 | Title | Description | Link | Recorded sessions |
 |-------|-------------|------|-----------|
-| *Supercomputing for Beginners* | Why use HPC? Accessing systems, using SLURM, loading software, file transfer and optimising resources. | [Link](hpc-intro) | [1](https://cardiff.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=eb5d36c7-d9c1-434d-91da-ac4c01513755) [2](https://cardiff.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=12d78289-ca3a-49d6-af69-ac4c015136db) [3](https://cardiff.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=79920a44-2d90-49c1-8995-ac4c0151363c) [4](https://cardiff.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=aa2d8177-227f-4195-bd85-ac4c015135bc) |
 | *An Introduction to Linux with Command Line* | How to use Linux command line interface effectively. | [Link](An-Introduction-to-Linux-with-Command-Line) | Processing... |
+| *Supercomputing for Beginners* | Why use HPC? Accessing systems, using SLURM, loading software, file transfer and optimising resources. | [Link](hpc-intro) | [1](https://cardiff.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=eb5d36c7-d9c1-434d-91da-ac4c01513755) [2](https://cardiff.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=12d78289-ca3a-49d6-af69-ac4c015136db) [3](https://cardiff.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=79920a44-2d90-49c1-8995-ac4c0151363c) [4](https://cardiff.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=aa2d8177-227f-4195-bd85-ac4c015135bc) |
 | *Slurm: Advanced Topics* | Additional material to interface with HPC more effectively. | [Link](slurm_advanced_topics) | Processing... |
 | *Advanced use of Hawk the Supercomputer* | Additional material for developers and frequent users. | [Link](hpc-advanced) | Processing... |
 | *Introduction to Parallel Programming using OpenMP* | OpenMP and shared memory parallelism. | [Link](Introduction-to-Parallel-Programming-using-OpenMP) | Processing... |
