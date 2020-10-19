@@ -30,6 +30,7 @@ Working with ARCHER (latest UK national supercomputer centre), they provide cour
 | Title | Description | Date | Time | Number of sessions | Link |
 | ----- | ----------- | ---- | ---- |:------------------:| ---- |
 | *Software Carpentry* | Software Carpentry’s goal is to help scientists and engineers become more productive by teaching them basic computing skills like program design, version control, testing, and task automation. | 02 to 05 November | 10:00 to 13:00 (GMT) | 4 | [ARCHER](https://www.archer2.ac.uk/training/courses/201102-software-carpentry/) |
+| *Data Analytics using Python* | Advice using Pandas and using Python in HPC environment. | 11 November | 10:00-12:00 and 14:00-16:00 (GMT) | 2 | [ARCHER](https://www.archer2.ac.uk/training/register/?course=python) |
 
 To attend the ARCCA online courses please refer to details below and then register using this [**link**](https://forms.office.com/Pages/ResponsePage.aspx?id=MEu3vWiVVki9vwZ1l3j8vPkaircuf9dEpb9_FS8UkjNURDMwM0hPNEFBSjFLNFZCOFY5UFdEWk9DOS4u).
 
