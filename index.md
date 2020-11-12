@@ -19,9 +19,15 @@ Welcome to the ARCCA training material.
 | *An Introduction to Linux Shell Scripting* | How to create shell scripts to automatize your work. | [Link](An-Introduction-to-Linux-Shell-Scripting) | [1](https://cardiff.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=642c3ce3-ba6d-4d47-8b0e-ac5b009fb4d8) [2](https://cardiff.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=5a2f8f48-6f33-41b2-ab23-ac5b009fb44a) [3](https://cardiff.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=f084ff32-d5d3-49e5-8591-ac60017be392) [4](https://cardiff.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=9a08cdf4-b117-4a53-b6e2-ac60017be2f2) |
 | *Supercomputing for Beginners* | Why use HPC? Accessing systems, using SLURM, loading software, file transfer and optimising resources. | [Link](hpc-intro) | [1](https://cardiff.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=eb5d36c7-d9c1-434d-91da-ac4c01513755) [2](https://cardiff.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=12d78289-ca3a-49d6-af69-ac4c015136db) [3](https://cardiff.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=79920a44-2d90-49c1-8995-ac4c0151363c) [4](https://cardiff.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=aa2d8177-227f-4195-bd85-ac4c015135bc) |
 | *Slurm: Advanced Topics* | Additional material to interface with HPC more effectively. | [Link](slurm_advanced_topics) | [1](https://cardiff.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=d329500e-b381-409a-a4d4-ac6e0136e7c7) [2](https://cardiff.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=10654eb4-8b79-4749-a29f-ac7100a07fa6) [3](https://cardiff.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=fb78e012-245a-4cf7-b0a6-ac7100a07f1e) |
-| *Advanced use of Hawk the Supercomputer* | Additional material for developers and frequent users. | [Link](hpc-advanced) | Processing... |
 | *Introduction to Parallel Programming using OpenMP* | OpenMP and shared memory parallelism. | [Link](Introduction-to-Parallel-Programming-using-OpenMP) | Processing... |
 | *Introduction to Parallel Programming using MPI* | MPI and distributed memory parallelism. | [Link](intro-mpi) | Processing... |
+
+## Previous material
+
+| Title | Description | Link | Recorded sessions |
+|-------|-------------|------|-----------|
+| *Advanced use of Hawk the Supercomputer* | Additional material for developers and frequent users. | [Link](hpc-advanced) | Processing... |
+
 
 ## Registration
 
