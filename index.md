@@ -22,6 +22,7 @@ Welcome to the ARCCA training material.
 | *Introduction to Parallel Programming using OpenMP* | OpenMP and shared memory parallelism. | [Link](Introduction-to-Parallel-Programming-using-OpenMP) | [1](https://cardiff.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=a8a53e68-85be-4fb9-84f3-ac7e017a8caf) [2](https://cardiff.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=39366a99-1b50-4d76-b208-ac7e017a8c09) [3](https://cardiff.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=f6114199-cf1d-437c-bd16-ac7e017a8b91) [4](https://cardiff.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=1fcfb11e-3920-404a-8fcd-ac7f01877dee) |
 | *Introduction to Parallel Programming using MPI* | MPI and distributed memory parallelism. | [Link](intro-mpi) | [1](https://cardiff.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=453e5594-f8e6-4e52-94f1-ac830118349a) [2](https://cardiff.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=52d51e29-eff2-44e0-8a80-ac8401438657) [3](https://cardiff.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=65ddbde2-8828-4189-af05-ac85015397cd) [4](https://cardiff.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=aa36a37c-324b-41c2-944c-ac86015b1534) |
 | *Introduction to Machine Learning Applications* | Machine Learning basics | [Link](An-Introduction-to-Machine-Learning-Applications) | [1](https://cardiff.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=88154b7f-8cfb-48d6-b2f4-ac8a014fa619) [2](https://cardiff.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=e6e3b2b4-68d0-4c0e-81e6-ac8b0104f225) [3](https://cardiff.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=c133aa8b-dbca-4240-8075-ac8d00ce4f3e) [4](https://cardiff.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=d8a67fa8-f04e-4bf7-a0cc-ac8d012c703b)|
+| *Introduction to containers and Singularity* | Find out about how software can be packages in containers to aide portability and reproducibility | [Link](intro_singularity) | Processing... |
 
 ## Previous material
 
@@ -31,13 +32,6 @@ Welcome to the ARCCA training material.
 
 
 ## Registration
-
-Working with ARCHER (latest UK national supercomputer centre), they provide courses that are useful for Cardiff researchers:
-
-| Title | Description | Date | Time | Number of sessions | Link |
-| ----- | ----------- | ---- | ---- |:------------------:| ---- |
-| *Software Carpentry* | Software Carpentry’s goal is to help scientists and engineers become more productive by teaching them basic computing skills like program design, version control, testing, and task automation. | 02 to 05 November | 10:00 to 13:00 (GMT) | 4 | [ARCHER](https://www.archer2.ac.uk/training/courses/201102-software-carpentry/) |
-| *Data Analytics using Python* | Advice using Pandas and using Python in HPC environment. | 11 November | 10:00-12:00 and 14:00-16:00 (GMT) | 2 | [ARCHER](https://www.archer2.ac.uk/training/register/?course=python) |
 
 To attend the ARCCA online courses please refer to details below.  For Cardiff University staff, the sessions should be available via CORE, for anyone else please register using this [**form**](https://forms.office.com/Pages/ResponsePage.aspx?id=MEu3vWiVVki9vwZ1l3j8vPkaircuf9dEpb9_FS8UkjNURDMwM0hPNEFBSjFLNFZCOFY5UFdEWk9DOS4u).
 
