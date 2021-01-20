@@ -51,6 +51,8 @@ To attend the ARCCA online courses please refer to details below.  For Cardiff U
 
 If you have any issues with the above registration methods please email [arcca@cardiff.ac.uk](mailto:arcca@cardiff.ac.uk).
 
+**Note**: Due to the automated addition of users to the training event within Microsoft O365, every new attendee added to the event will result in all attendees of the event being notified.  There is currently no suitable workaround. We apologise for the extra communications.
+
 ## Videos
 
 | Title | Description | Link |
