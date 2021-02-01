@@ -37,7 +37,7 @@ To attend the ARCCA online courses please refer to details below.  For Cardiff U
 
 | Title | Description | Date | Time | Number of sessions | Registration link |
 |-------|-------------|------|------|:------------------:|-------------------|
-| *Advanced Research Computing at Cardiff University* | Presentation on what Advanced Research Computing can provide. | Mon 8 Feb 2020 | 11:00 to 12:00 | 1 | [Register](https://forms.office.com/Pages/ResponsePage.aspx?id=MEu3vWiVVki9vwZ1l3j8vPkaircuf9dEpb9_FS8UkjNUQ0dOWDMzRzJLQ1NQSEVPTTFFNElBRUIxNi4u) |
+| *Advanced Research Computing at Cardiff University* | Presentation on what Advanced Research Computing can provide. | Mon 8 Feb 2020 | 10:00 to 11:00 | 1 | [Register](https://forms.office.com/Pages/ResponsePage.aspx?id=MEu3vWiVVki9vwZ1l3j8vPkaircuf9dEpb9_FS8UkjNUQ0dOWDMzRzJLQ1NQSEVPTTFFNElBRUIxNi4u) |
 | *An Introduction to Linux with Command Line (& Windows)* | Learn how to use the Linux command line. | Mon 15 to Thu 18 Feb 2021 | 11:00 to 12:00 | 4 | [Register](https://forms.office.com/Pages/ResponsePage.aspx?id=MEu3vWiVVki9vwZ1l3j8vPkaircuf9dEpb9_FS8UkjNUN1UyU1IyNFQ3WDYxMEVVMVhZRkVUOUJUUi4u) |
 | *An Introduction to Linux Shell Scripting* | Further your knowledge with Linux shell scripting. | Mon 22 to Thu 25 Feb 2021 | 11:00 to 12:00 | 4 | [Register](https://forms.office.com/Pages/ResponsePage.aspx?id=MEu3vWiVVki9vwZ1l3j8vPkaircuf9dEpb9_FS8UkjNUMVZFTVNQSjVDOEQ3VzFMTTZaQk1UUDUzSi4u) |
 | *Supercomputing for Beginners* | Learn to run jobs on the University supercomputer. | Mon 1 to Thu 4 Mar 2021 | 11:00 to 12:00 | 4 | [Register](https://forms.office.com/Pages/ResponsePage.aspx?id=MEu3vWiVVki9vwZ1l3j8vPkaircuf9dEpb9_FS8UkjNUQjNYM1ZUTzJDWUc1WkhLNTg2VVdEVjRRUi4u) |
