@@ -12,8 +12,13 @@
         window.dataLayer = window.dataLayer || [];
         function gtag(){dataLayer.push(arguments);}
         gtag('js', new Date());
+	gtag('set', {
+	  'anonymize_ip': true,
+	  'cookie_domain': 'arcca.github.io',
+	  'cookie_flags': 'SameSite=None;Secure'
+	});
 
-	gtag('config', 'UA-178722680-1', { 'anonymize_ip': true, "cookie_domain": "arcca.github.io", "cookie_flags": "SameSite=None;Secure" });
+	gtag('config', 'UA-178722680-1');
     </script>
 
     <meta charset="utf-8">
