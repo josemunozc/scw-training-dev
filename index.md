@@ -6,6 +6,8 @@ permalink: index.html  # Is the only page that doesn't follow the pattern /:path
 
 Welcome to the ARCCA training material.
 
+For training news and news updates please register on [ARCCA-community](https://mailman.cardiff.ac.uk/postorius/lists/arcca-community.mailman.cardiff.ac.uk/) mailing list.
+
 <!-- this is an html comment -->
 
 {% comment %} This is a comment in Liquid {% endcomment %}
