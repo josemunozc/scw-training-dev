@@ -76,7 +76,7 @@ If you have any issues with the above registration methods please email [arcca@c
 
 | Title | Description | Date | Link |
 |-------|-------------|------|------|
-| Tutorial for NLP | Presentation give to NLP group at Cardiff University | 18/02/2021 | [link](tutorial_npl) |
+| Tutorial for NLP | Presentation give to NLP group at Cardiff University | 18/02/2021 | [link](tutorial_nlp) |
 
 
 {% include links.md %}
