@@ -49,8 +49,7 @@ To attend the ARCCA online courses please refer to details below.  For Cardiff U
 | *Introduction to Parallel Programming using MPI* | Learn to use MPI to parallelise your code. | Mon 22 to Thu 25 Mar 2021 | 11:00 to 12:00 | 4 | [Register](https://forms.office.com/Pages/ResponsePage.aspx?id=MEu3vWiVVki9vwZ1l3j8vPkaircuf9dEpb9_FS8UkjNUN005REw5UzBFMlgzQU1RWVU1QU5QUDBZNi4u) |
 | *Introduction to Machine Learning Applications* | Find out how to run machine learning applications on the supercomputer. | Mon 19 to Thu 22 Apr 2021 | 11:00 to 12:00 | 4 | [Register](https://forms.office.com/Pages/ResponsePage.aspx?id=MEu3vWiVVki9vwZ1l3j8vPkaircuf9dEpb9_FS8UkjNUOEdNV0JBQzJUWkc1TFc3R1U4TjFIWEM0Ry4u) |
 | *Introduction to containers and Singularity* | Discover how containers can help your workflow. | Mon 26 to Thu 29 Apr 2021 | 11:00 to 12:00 | 4 | [Register](https://forms.office.com/Pages/ResponsePage.aspx?id=MEu3vWiVVki9vwZ1l3j8vPkaircuf9dEpb9_FS8UkjNUNkZUSEZONlBDTjBNQ1NRWEdSNk5USUVMVC4u) |
-| *Introduction to workflow tool NextFlow* | Find out how to manage workflows within a the NextFlow framework. | Tue 9 to Fri 12 Feb 2021 | 11:00 to 12:00 | 4 | [Register](https://forms.office.com/Pages/ResponsePage.aspx?id=MEu3vWiVVki9vwZ1l3j8vPkaircuf9dEpb9_FS8UkjNUNFpYTUZOTkIxRU9YR0tGQzZMMjFRUUw1TS4u) |
-| | | Mon 10 to Thu 13 May 2021 | 11:00 to 12:00 | 4 | TBA (see earlier event) |
+| *Introduction to workflow tool NextFlow* | Find out how to manage workflows within a the NextFlow framework. | Mon 10 to Thu 13 May 2021 | 11:00 to 12:00 | 4 | [Register](https://forms.office.com/Pages/ResponsePage.aspx?id=MEu3vWiVVki9vwZ1l3j8vPkaircuf9dEpb9_FS8UkjNUNFpYTUZOTkIxRU9YR0tGQzZMMjFRUUw1TS4u) |
 
 If you have any issues with the above registration methods please email [arcca@cardiff.ac.uk](mailto:arcca@cardiff.ac.uk).
 
