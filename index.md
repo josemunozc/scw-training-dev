@@ -36,20 +36,22 @@ For training news and news updates please register on [ARCCA-community](https://
 
 ## Registration
 
+The timetable for 2021/22 is still being planned but the following table will be updated when the timetable is available.
+
 To attend the ARCCA online courses please refer to details below.  For Cardiff University staff, the sessions should be available via CORE, for anyone else please register using this the links in the table below.
 
 | Title | Description | Date | Time | Number of sessions | Registration link |
 |-------|-------------|------|------|:------------------:|-------------------|
-| *Advanced Research Computing at Cardiff University* | Presentation on what Advanced Research Computing can provide. | Mon 8 Feb 2021 | 10:00 to 11:00 | 1 | [Register](https://forms.office.com/Pages/ResponsePage.aspx?id=MEu3vWiVVki9vwZ1l3j8vPkaircuf9dEpb9_FS8UkjNUQ0dOWDMzRzJLQ1NQSEVPTTFFNElBRUIxNi4u) |
-| *An Introduction to Linux with Command Line (& Windows)* | Learn how to use the Linux command line. | Mon 15 to Thu 18 Feb 2021 | 11:00 to 12:00 | 4 | [Register](https://forms.office.com/Pages/ResponsePage.aspx?id=MEu3vWiVVki9vwZ1l3j8vPkaircuf9dEpb9_FS8UkjNUN1UyU1IyNFQ3WDYxMEVVMVhZRkVUOUJUUi4u) |
-| *An Introduction to Linux Shell Scripting* | Further your knowledge with Linux shell scripting. | Mon 22 to Thu 25 Feb 2021 | 11:00 to 12:00 | 4 | [Register](https://forms.office.com/Pages/ResponsePage.aspx?id=MEu3vWiVVki9vwZ1l3j8vPkaircuf9dEpb9_FS8UkjNUMVZFTVNQSjVDOEQ3VzFMTTZaQk1UUDUzSi4u) |
-| *Supercomputing for Beginners* | Learn to run jobs on the University supercomputer. | Mon 1 to Thu 4 Mar 2021 | 11:00 to 12:00 | 4 | [Register](https://forms.office.com/Pages/ResponsePage.aspx?id=MEu3vWiVVki9vwZ1l3j8vPkaircuf9dEpb9_FS8UkjNUQjNYM1ZUTzJDWUc1WkhLNTg2VVdEVjRRUi4u) |
-| *Slurm – Advanced Topics* | Find out further information on using Slurm and the supercomputer. | Mon 8 to Thu 11 Mar 2021 | 11:00 to 12:00 | 4 | [Register](https://forms.office.com/Pages/ResponsePage.aspx?id=MEu3vWiVVki9vwZ1l3j8vPkaircuf9dEpb9_FS8UkjNUQ05LUkxKTU1VUkRTRzhaVUdNVloxSk45RS4u) |
-| *Introduction to Parallel Programming using OpenMP* | Learn to use OpenMP to parallelise your code. | Mon 15 to Thu 18 Mar 2021 | 11:00 to 12:00 | 4 | [Register](https://forms.office.com/Pages/ResponsePage.aspx?id=MEu3vWiVVki9vwZ1l3j8vPkaircuf9dEpb9_FS8UkjNUQjlRVjZXVE9ISFo3TDk4QlVMQTJQTTJOMi4u) |
-| *Introduction to Parallel Programming using MPI* | Learn to use MPI to parallelise your code. | Mon 22 to Thu 25 Mar 2021 | 11:00 to 12:00 | 4 | [Register](https://forms.office.com/Pages/ResponsePage.aspx?id=MEu3vWiVVki9vwZ1l3j8vPkaircuf9dEpb9_FS8UkjNUN005REw5UzBFMlgzQU1RWVU1QU5QUDBZNi4u) |
-| *Introduction to Machine Learning Applications* | Find out how to run machine learning applications on the supercomputer. | Mon 19 to Thu 22 Apr 2021 | 11:00 to 12:00 | 4 | [Register](https://forms.office.com/Pages/ResponsePage.aspx?id=MEu3vWiVVki9vwZ1l3j8vPkaircuf9dEpb9_FS8UkjNUOEdNV0JBQzJUWkc1TFc3R1U4TjFIWEM0Ry4u) |
-| *Introduction to containers and Singularity* | Discover how containers can help your workflow. | Mon 26 to Thu 29 Apr 2021 | 11:00 to 12:00 | 4 | [Register](https://forms.office.com/Pages/ResponsePage.aspx?id=MEu3vWiVVki9vwZ1l3j8vPkaircuf9dEpb9_FS8UkjNUNkZUSEZONlBDTjBNQ1NRWEdSNk5USUVMVC4u) |
-| *Introduction to workflow tool NextFlow* | Find out how to manage workflows within a the NextFlow framework. | Mon 10 to Thu 13 May 2021 | 11:00 to 12:00 | 4 | [Register](https://forms.office.com/Pages/ResponsePage.aspx?id=MEu3vWiVVki9vwZ1l3j8vPkaircuf9dEpb9_FS8UkjNUNFpYTUZOTkIxRU9YR0tGQzZMMjFRUUw1TS4u) |
+| *Advanced Research Computing at Cardiff University* | Presentation on what Advanced Research Computing can provide. | TBC | TBC | 1 | NA |
+| *An Introduction to Linux with Command Line (& Windows)* | Learn how to use the Linux command line. | TBC | TBC | 4 | NA |
+| *An Introduction to Linux Shell Scripting* | Further your knowledge with Linux shell scripting. | TBC| TBC | 4 | NA |
+| *Supercomputing for Beginners* | Learn to run jobs on the University supercomputer. | TBC | TBC | 4 | NA |
+| *Slurm – Advanced Topics* | Find out further information on using Slurm and the supercomputer. | TBC | TBC | 4 | NA |
+| *Introduction to Parallel Programming using OpenMP* | Learn to use OpenMP to parallelise your code. | TBC | TBC | 4 | NA |
+| *Introduction to Parallel Programming using MPI* | Learn to use MPI to parallelise your code. | TBC | TBC | 4 | NA |
+| *Introduction to Machine Learning Applications* | Find out how to run machine learning applications on the supercomputer. | TBC | TBC | 4 | NA |
+| *Introduction to containers and Singularity* | Discover how containers can help your workflow. | TBC | TBC | 4 | NA |
+| *Introduction to workflow tool NextFlow* | Find out how to manage workflows within a the NextFlow framework. | TBC | TBC | 4 | NA |
 
 If you have any issues with the above registration methods please email [arcca@cardiff.ac.uk](mailto:arcca@cardiff.ac.uk).
 
