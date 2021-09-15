@@ -55,6 +55,7 @@ To attend the ARCCA online courses please refer to details below.  For Cardiff U
 | *Introduction to workflow tool NextFlow* | Find out how to manage workflows within a the NextFlow framework. | Depends on numbers | TBC | 2 | [Register interest](https://forms.office.com/r/hPbC3ZyvGL) |
 
 **Special event**
+
 | Title | Description | Date | Time | Number of sessions | Registration link |
 | NVIDIA DLI - Fundamentals of Accelerated Computing with CUDA Python | Experience using GPUs within Python using latest Nvidia training material | 1st and 2nd Dec 2021 | 9am - 1pm | 2 | Awaiting link from Nvidia |
 
