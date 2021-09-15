@@ -31,7 +31,7 @@ For training news and news updates please register on [ARCCA-community](https://
 
 | Title | Description | Link | Recorded sessions |
 |-------|-------------|------|-----------|
-| *Advanced use of Hawk the Supercomputer* | Additional material for developers and frequent users. | [Link](hpc-advanced) | Processing... |
+| *Advanced use of Hawk the Supercomputer* | Additional material for developers and frequent users. | [Link](hpc-advanced) | No recording(s) |
 | *Introduction to Parallel Programming using OpenMP* | OpenMP and shared memory parallelism. | [Link](Introduction-to-Parallel-Programming-using-OpenMP) | [1](https://cardiff.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=a8a53e68-85be-4fb9-84f3-ac7e017a8caf) [2](https://cardiff.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=39366a99-1b50-4d76-b208-ac7e017a8c09) [3](https://cardiff.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=f6114199-cf1d-437c-bd16-ac7e017a8b91) [4](https://cardiff.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=1fcfb11e-3920-404a-8fcd-ac7f01877dee) |
 | *Introduction to Parallel Programming using MPI* | MPI and distributed memory parallelism. | [Link](intro-mpi) | [1](https://cardiff.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=453e5594-f8e6-4e52-94f1-ac830118349a) [2](https://cardiff.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=52d51e29-eff2-44e0-8a80-ac8401438657) [3](https://cardiff.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=65ddbde2-8828-4189-af05-ac85015397cd) [4](https://cardiff.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=aa36a37c-324b-41c2-944c-ac86015b1534) |
 
@@ -44,7 +44,7 @@ To attend the ARCCA online courses please refer to details below.  For Cardiff U
 | Title | Description | Date | Time | Number of sessions | Registration link |
 |-------|-------------|------|------|:------------------:|-------------------|
 | *Advanced Research Computing at Cardiff University* | Presentation on what Advanced Research Computing can provide including demonstration of Open OnDemand. | 7th Oct 2021 | 11am - 1pm | 1 | [Register](https://forms.office.com/r/fk1w1PZx1k) |
-| *An Introduction to Linux with Command Line (& Windows)* | Learn how to use the Linux command line. | 13th and 14th Oct 2021 | 11am - 1pm | 2 | NA |
+| *An Introduction to Linux with Command Line (& Windows)* | Learn how to use the Linux command line. | 13th and 14th Oct 2021 | 11am - 1pm | 2 | [Register](https://forms.office.com/r/PCvHHEzCLM) |
 | *An Introduction to Linux Shell Scripting* | Further your knowledge with Linux shell scripting. | 20th and 21st Oct 2021 | 11am - 1pm | 2 | NA |
 | *Supercomputing for Beginners* | Learn to run jobs on the University supercomputer. | 2nd and 4th Nov 2021 | 11am - 1pm | 2 | NA |
 | *Slurm – Advanced Topics* | Find out further information on using Slurm and the supercomputer. | 10th and 11th Nov 2021 | 11am - 1pm | 2 | NA |
