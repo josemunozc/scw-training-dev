@@ -45,7 +45,7 @@ To attend the ARCCA online courses please refer to details below.  For Cardiff U
 |-------|-------------|------|------|:------------------:|-------------------|
 | *Advanced Research Computing at Cardiff University* | Presentation on what Advanced Research Computing can provide including demonstration of Open OnDemand. | 7th Oct 2021 | 11am - 1pm | 1 | [Register](https://forms.office.com/r/fk1w1PZx1k) |
 | *An Introduction to Linux with Command Line (& Windows)* | Learn how to use the Linux command line. | 13th and 14th Oct 2021 | 11am - 1pm | 2 | [Register](https://forms.office.com/r/PCvHHEzCLM) |
-| *An Introduction to Linux Shell Scripting* | Further your knowledge with Linux shell scripting. | 20th and 21st Oct 2021 | 11am - 1pm | 2 | NA |
+| *An Introduction to Linux Shell Scripting* | Further your knowledge with Linux shell scripting. | 20th and 21st Oct 2021 | 11am - 1pm | 2 | [Register](https://forms.office.com/r/FyPUnmbu58) |
 | *Supercomputing for Beginners* | Learn to run jobs on the University supercomputer. | 2nd and 4th Nov 2021 | 11am - 1pm | 2 | NA |
 | *Slurm – Advanced Topics* | Find out further information on using Slurm and the supercomputer. | 10th and 11th Nov 2021 | 11am - 1pm | 2 | NA |
 | *Introduction to Parallel Programming using OpenMP and MPI* | Learn to use OpenMP and MPI to parallelise your code. | 17th and 18th Nov 2021 | 11am - 1pm | 2 | NA |
