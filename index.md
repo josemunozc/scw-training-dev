@@ -54,6 +54,10 @@ To attend the ARCCA online courses please refer to details below.  For Cardiff U
 | *Introduction to containers and Singularity* | Discover how containers can help your workflow. | Depends on numbers | TBC | 2 | [Register interest](https://forms.office.com/r/78LCQLdaTG) |
 | *Introduction to workflow tool NextFlow* | Find out how to manage workflows within a the NextFlow framework. | Depends on numbers | TBC | 2 | [Register interest](https://forms.office.com/r/hPbC3ZyvGL) |
 
+**Special event**
+| Title | Description | Date | Time | Number of sessions | Registration link |
+| NVIDIA DLI - Fundamentals of Accelerated Computing with CUDA Python | Experience using GPUs within Python using latest Nvidia training material | 1st and 2nd Dec 2021 | 9am - 1pm | 2 | Awaiting link from Nvidia |
+
 If you have any issues with the above registration methods please email [arcca@cardiff.ac.uk](mailto:arcca@cardiff.ac.uk).
 
 **Note**: Due to the automated addition of users to the training event within Microsoft O365, every new attendee added to the event will result in all attendees of the event being notified.  There is currently no suitable workaround. We apologise for the extra communications.
