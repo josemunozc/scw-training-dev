@@ -37,9 +37,9 @@ For training news and news updates please register on [ARCCA-community](https://
 
 ## Registration
 
-The timetable for 2021/22 is still being planned but the following table will be updated when the timetable is available.
+The timetable for 2021/22 is now available!
 
-To attend the ARCCA online courses please refer to details below.  For Cardiff University staff, the sessions should be available via CORE, for anyone else please register using this the links in the table below.
+To attend the ARCCA online courses please refer to details below.  For Cardiff University staff, the sessions should be available via CORE, for anyone else please register using the links in the table below.
 
 | Title | Description | Date | Time | Number of sessions | Registration link |
 |-------|-------------|------|------|:------------------:|-------------------|
