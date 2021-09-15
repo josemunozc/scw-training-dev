@@ -48,7 +48,7 @@ To attend the ARCCA online courses please refer to details below.  For Cardiff U
 | *An Introduction to Linux Shell Scripting* | Further your knowledge with Linux shell scripting. | 20th and 21st Oct 2021 | 11am - 1pm | 2 | [Register](https://forms.office.com/r/FyPUnmbu58) |
 | *Supercomputing for Beginners* | Learn to run jobs on the University supercomputer. | 2nd and 4th Nov 2021 | 11am - 1pm | 2 | [Register](https://forms.office.com/r/e4KDkLpsbx) |
 | *Slurm – Advanced Topics* | Find out further information on using Slurm and the supercomputer. | 10th and 11th Nov 2021 | 11am - 1pm | 2 | [Register](https://forms.office.com/r/U9A6nU6Aju) |
-| *Introduction to Parallel Programming using OpenMP and MPI* | Learn to use OpenMP and MPI to parallelise your code. | 17th and 18th Nov 2021 | 11am - 1pm | 2 | NA |
+| *Introduction to Parallel Programming using OpenMP and MPI* | Learn to use OpenMP and MPI to parallelise your code. | 17th and 18th Nov 2021 | 11am - 1pm | 2 | [Register](https://forms.office.com/r/7Jc7kQczkC) |
 | *Introduction to Python* | Learn to use Python and migrate your code to our supercomputer. | 24th and 25th Nov 2021 | 11am - 1pm | 2 | NA |
 | *Introduction to Machine Learning Applications* | Find out how to run machine learning applications on the supercomputer. | 8th and 9th Dec 2021 | 11am - 1pm | 2 | NA |
 | *Introduction to containers and Singularity* | Discover how containers can help your workflow. | Depends on numbers | TBC | 2 | NA |
