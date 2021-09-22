@@ -8,6 +8,8 @@ Welcome to the ARCCA training material.
 
 For training news and news updates please register on [ARCCA-community](https://mailman.cardiff.ac.uk/postorius/lists/arcca-community.mailman.cardiff.ac.uk/) mailing list.
 
+For users at Cardiff Unviersity we also have material at the [ARCCAHub](https://cf.sharepoint.com/teams/ARCCAHub) which is accessible for Cardiff University members and authorised users.
+
 <!-- this is an html comment -->
 
 {% comment %} This is a comment in Liquid {% endcomment %}
