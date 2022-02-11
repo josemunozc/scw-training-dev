@@ -60,7 +60,7 @@ To attend the ARCCA online courses please refer to details below.  For Cardiff U
 
 | Title | Description | Date | Time | Number of sessions | Registration link |
 |-------|-------------|------|------|:------------------:|-------------------|
-| NVIDIA DLI - Fundamentals of Accelerated Computing with CUDA Python | Experience using GPUs within Python using latest Nvidia training material | 23rd and 24th Mar 2022 | 9am - 1pm | 2 | Awaiting link from Nvidia |
+| NVIDIA DLI - Fundamentals of Accelerated Computing with CUDA Python | Experience using GPUs within Python using latest Nvidia training material | 23rd and 24th Mar 2022 | 9am - 1pm | 2 | [Register](https://forms.office.com/Pages/ResponsePage.aspx?id=MEu3vWiVVki9vwZ1l3j8vF6aA7WVV0BLo5W5ojijfxNURDJMUzI1SUpWNE1MTk5HMUg1RUI0U1hCVi4u) |
 
 If you have any issues with the above registration methods please email [arcca@cardiff.ac.uk](mailto:arcca@cardiff.ac.uk).
 
