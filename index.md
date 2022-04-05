@@ -82,14 +82,14 @@ If you have any issues with the above registration methods please email [arcca@c
 | Accessing Hawk on Linux | Howto access system on Linux | [Link](https://cardiff.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=1c5f795d-684f-4e43-8bd8-aab000cd4f05) |
 | Accessing Hawk on Windows | Howto access system on Windows | [Link](https://cardiff.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=6f42b278-cc56-404a-bcc4-aab000cd4fb2) |
 | Introduction to Open OnDemand | Howto easily access interactive jobs and a web frontend | [Link](https://cardiff.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=61664718-88c3-4e96-ae6c-ae6e00af7dea) |
-| Introduction to FEBio Studio | Howto run FEBio via the job scheduler | [Link](https://cardiff.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=d4732f02-df2b-4a02-9615-ae6e00ab01b1)
-| Introduction to FEBio Studio via Open OnDemand | Howto run FEBio Studio via Open OnDemand for interactive session | [Link](https://cardiff.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=1ea18c05-6b50-473d-ad32-ae6e00ada6ab)
+
  
 ## Domain specific
 
-| Title | Description | Date | Link |
-|-------|-------------|------|------|
-| Tutorial for NLP | Presentation give to NLP group at Cardiff University | 18/02/2021 | [link](tutorial_nlp) |
-
+| Domain | Title | Description | Date | Link |
+|--------|-------|-------------|------|------|
+| COMSC | Tutorial for NLP | Presentation give to NLP group at Cardiff University | 18/02/2021 | [link](tutorial_nlp) |
+| ENGIN | Introduction to FEBio Studio | Howto run FEBio via the job scheduler | 5/4/2022 | [Link](https://cardiff.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=d4732f02-df2b-4a02-9615-ae6e00ab01b1)
+| ENGIN | Introduction to FEBio Studio via Open OnDemand | Howto run FEBio Studio via Open OnDemand for interactive session | 5/4/2022 | [Link](https://cardiff.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=1ea18c05-6b50-473d-ad32-ae6e00ada6ab)
 
 {% include links.md %}
