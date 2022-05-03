@@ -45,7 +45,7 @@ To attend the ARCCA online courses please refer to details below.  For Cardiff U
 
 | Title | Description | Date | Time | Number of sessions | Registration link |
 |-------|-------------|------|------|:------------------:|-------------------|
-| *Advanced Research Computing at Cardiff University* | Presentation on what Advanced Research Computing can provide including demonstration of Open OnDemand. | 3rd Feb 2022 | 11am - 1pm | 1 | [Register](https://forms.office.com/r/fk1w1PZx1k) |
+| *Advanced Research Computing at Cardiff University* | Presentation on what Advanced Research Computing can provide including demonstration of Open OnDemand. | TBA | TBA | TBA | TBA |
 | *An Introduction to Linux with Command Line (& Windows)* | Learn how to use the Linux command line. | TBA | TBA | TBA | TBA |
 | *An Introduction to Linux Shell Scripting* | Further your knowledge with Linux shell scripting. | TBA | TBA | TBA | TBA |
 | *Supercomputing for Beginners* | Learn to run jobs on the University supercomputer. | TBA | TBA | TBA | TBA |
