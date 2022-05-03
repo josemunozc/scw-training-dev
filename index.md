@@ -46,21 +46,21 @@ To attend the ARCCA online courses please refer to details below.  For Cardiff U
 | Title | Description | Date | Time | Number of sessions | Registration link |
 |-------|-------------|------|------|:------------------:|-------------------|
 | *Advanced Research Computing at Cardiff University* | Presentation on what Advanced Research Computing can provide including demonstration of Open OnDemand. | 3rd Feb 2022 | 11am - 1pm | 1 | [Register](https://forms.office.com/r/fk1w1PZx1k) |
-| *An Introduction to Linux with Command Line (& Windows)* | Learn how to use the Linux command line. | 9th and 10th Feb 2022 | 11am - 1pm | 2 | [Register](https://forms.office.com/r/PCvHHEzCLM) |
-| *An Introduction to Linux Shell Scripting* | Further your knowledge with Linux shell scripting. | 16th and 17th Feb 2022 | 11am - 1pm | 2 | [Register](https://forms.office.com/r/FyPUnmbu58) |
-| *Supercomputing for Beginners* | Learn to run jobs on the University supercomputer. | 23rd and 24th Feb 2022 | 11am - 1pm | 2 | [Register](https://forms.office.com/r/e4KDkLpsbx) |
-| *Slurm – Advanced Topics* | Find out further information on using Slurm and the supercomputer. | 28th Feb and 1st Mar 2022 | 11am - 1pm | 2 | [Register](https://forms.office.com/r/U9A6nU6Aju) |
-| *Introduction to Parallel Programming using OpenMP and MPI* | Learn to use OpenMP and MPI to parallelise your code. | 9th and 10th Mar 2022 | 11am - 1pm | 2 | [Register](https://forms.office.com/r/7Jc7kQczkC) |
-| *Introduction to Python* | Learn to use Python and migrate your code to our supercomputer. | 16th and 17th Mar 2022 | 11am - 1pm | 2 | [Register](https://forms.office.com/r/Ed4ugTMr6L) |
-| *Introduction to Machine Learning Applications* | Find out how to run machine learning applications on the supercomputer. | 30th and 31st Mar 2022 | 11am - 1pm | 2 | [Register](https://forms.office.com/r/X1RKMUK9za) |
-| *Introduction to containers and Singularity* | Discover how containers can help your workflow. | Depends on numbers | TBC | 2 | [Register interest](https://forms.office.com/r/78LCQLdaTG) |
-| *Introduction to workflow tool NextFlow* | Find out how to manage workflows within a the NextFlow framework. | Depends on numbers | TBC | 2 | [Register interest](https://forms.office.com/r/hPbC3ZyvGL) |
+| *An Introduction to Linux with Command Line (& Windows)* | Learn how to use the Linux command line. | TBA | TBA | TBA | TBA |
+| *An Introduction to Linux Shell Scripting* | Further your knowledge with Linux shell scripting. | TBA | TBA | TBA | TBA |
+| *Supercomputing for Beginners* | Learn to run jobs on the University supercomputer. | TBA | TBA | TBA | TBA |
+| *Slurm – Advanced Topics* | Find out further information on using Slurm and the supercomputer. | TBA | TBA | TBA | TBA |
+| *Introduction to Parallel Programming using OpenMP and MPI* | Learn to use OpenMP and MPI to parallelise your code. | TBA | TBA | TBA | TBA |
+| *Introduction to Python* | Learn to use Python and migrate your code to our supercomputer. | TBA | TBA | TBA | TBA |
+| *Introduction to Machine Learning Applications* | Find out how to run machine learning applications on the supercomputer. | TBA | TBA | TBA | TBA |
+| *Introduction to containers and Singularity* | Discover how containers can help your workflow. | TBA | TBA | 2 | [Register interest](https://forms.office.com/r/78LCQLdaTG) |
+| *Introduction to workflow tool NextFlow* | Find out how to manage workflows within a the NextFlow framework. | TBA | TBA | 2 | [Register interest](https://forms.office.com/r/hPbC3ZyvGL) |
 
 **Special event**
 
 | Title | Description | Date | Time | Number of sessions | Registration link |
 |-------|-------------|------|------|:------------------:|-------------------|
-| NVIDIA DLI - Fundamentals of Accelerated Computing with CUDA Python | Experience using GPUs within Python using latest Nvidia training material | 23rd and 24th Mar 2022 | 9am - 1pm | 2 | [Register](https://forms.office.com/Pages/ResponsePage.aspx?id=MEu3vWiVVki9vwZ1l3j8vF6aA7WVV0BLo5W5ojijfxNURDJMUzI1SUpWNE1MTk5HMUg1RUI0U1hCVi4u) |
+| NVIDIA DLI - Fundamentals of Accelerated Computing with CUDA Python | Experience using GPUs within Python using latest Nvidia training material | TBA | TBA | TBA | TBA |
 
 If you have any issues with the above registration methods please email [arcca@cardiff.ac.uk](mailto:arcca@cardiff.ac.uk).
 
