@@ -8,7 +8,11 @@ Welcome to the ARCCA training material.
 
 For training news and news updates please register on [ARCCA-community](https://mailman.cardiff.ac.uk/postorius/lists/arcca-community.mailman.cardiff.ac.uk/) mailing list.
 
+For weekly ARCCA surgeries please subscribe to the event at [ARCCA Surgery](https://forms.office.com/r/XsT9jBU2fu)
+
 For users at Cardiff Unviersity we also have material at the [ARCCAHub](https://cf.sharepoint.com/teams/ARCCAHub) which is accessible for Cardiff University members and authorised users.
+
+
 
 <!-- this is an html comment -->
 
