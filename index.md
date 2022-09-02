@@ -49,14 +49,14 @@ To attend the ARCCA online courses please refer to details below.  For Cardiff U
 
 | Title | Description | Date | Time | Number of sessions | Registration link |
 |-------|-------------|------|------|:------------------:|-------------------|
-| *Advanced Research Computing at Cardiff University* | Presentation on what Advanced Research Computing can provide including demonstration of Open OnDemand. | Thu 6th October 2022 | 11 am - 1 pm | 1 | https://forms.office.com/r/fk1w1PZx1k |
-| *An Introduction to Linux with Command Line (& Windows)* | Learn how to use the Linux command line. | Thu 13th & Fri 14th Oct 2022 | 11 am – 1 pm | 2 | https://forms.office.com/r/PCvHHEzCLM |
-| *An Introduction to Linux Shell Scripting* | Further your knowledge with Linux shell scripting. | Thu 20th & Fri 21st Oct 2022 | 11 am – 1 pm | 2 | https://forms.office.com/r/FyPUnmbu58 |
-| *Supercomputing for Beginners* | Learn to run jobs on the University supercomputer. | Thu 27th & Fri 28th Oct 2022 | 11am - 1pm | 2 | https://forms.office.com/r/e4KDkLpsbx |
-| *Slurm – Advanced Topics* | Find out further information on using Slurm and the supercomputer. | Thu 10th & Fri 11th Nov 2022 | 11 am -1 pm | 2 | https://forms.office.com/r/U9A6nU6Aju |
-| *Introduction to Parallel Programming using OpenMP and MPI* | Learn to use OpenMP and MPI to parallelise your code. | Thu 17th & Fri 18th Nov 2022 | 11 am -1 pm | 2 | https://forms.office.com/r/7Jc7kQczkC |
-| *Introduction to Python* | Learn to use Python and migrate your code to our supercomputer. | Thu 24th & Fri 25th Nov 2022 | 11 am -1 pm | 2 | https://forms.office.com/r/Ed4ugTMr6L |
-| *Introduction to Machine Learning Applications* | Find out how to run machine learning applications on the supercomputer. | Thu 1st & Fri 2nd Dec 2022 | 11 am - 1 pm | 2 | https://forms.office.com/r/X1RKMUK9za |
+| *Advanced Research Computing at Cardiff University* | Presentation on what Advanced Research Computing can provide including demonstration of Open OnDemand. | Thu 6th October 2022 | 11 am - 1 pm | 1 | [Register](https://forms.office.com/r/fk1w1PZx1k) |
+| *An Introduction to Linux with Command Line (& Windows)* | Learn how to use the Linux command line. | Thu 13th & Fri 14th Oct 2022 | 11 am – 1 pm | 2 | [Register](https://forms.office.com/r/PCvHHEzCLM) |
+| *An Introduction to Linux Shell Scripting* | Further your knowledge with Linux shell scripting. | Thu 20th & Fri 21st Oct 2022 | 11 am – 1 pm | 2 | [Register](https://forms.office.com/r/FyPUnmbu58) |
+| *Supercomputing for Beginners* | Learn to run jobs on the University supercomputer. | Thu 27th & Fri 28th Oct 2022 | 11am - 1pm | 2 | [Register](https://forms.office.com/r/e4KDkLpsbx) |
+| *Slurm – Advanced Topics* | Find out further information on using Slurm and the supercomputer. | Thu 10th & Fri 11th Nov 2022 | 11 am -1 pm | 2 | [Register](https://forms.office.com/r/U9A6nU6Aju) |
+| *Introduction to Parallel Programming using OpenMP and MPI* | Learn to use OpenMP and MPI to parallelise your code. | Thu 17th & Fri 18th Nov 2022 | 11 am -1 pm | 2 | [Register](https://forms.office.com/r/7Jc7kQczkC) |
+| *Introduction to Python* | Learn to use Python and migrate your code to our supercomputer. | Thu 24th & Fri 25th Nov 2022 | 11 am -1 pm | 2 | [Register](https://forms.office.com/r/Ed4ugTMr6L) |
+| *Introduction to Machine Learning Applications* | Find out how to run machine learning applications on the supercomputer. | Thu 1st & Fri 2nd Dec 2022 | 11 am - 1 pm | 2 | [Register](https://forms.office.com/r/X1RKMUK9za) |
 | *Introduction to containers and Singularity* | Discover how containers can help your workflow. | Depends on numbers | TBA | 2 | [Register interest](https://forms.office.com/r/78LCQLdaTG) |
 | *Introduction to workflow tool NextFlow* | Find out how to manage workflows within a the NextFlow framework. | Depends on numbers | TBA | 2 | [Register interest](https://forms.office.com/r/hPbC3ZyvGL) |
 
