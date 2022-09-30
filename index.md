@@ -41,9 +41,9 @@ For users at Cardiff Unviersity we also have material at the [ARCCAHub](https://
 | *Introduction to Parallel Programming using OpenMP* | OpenMP and shared memory parallelism. | [Link](Introduction-to-Parallel-Programming-using-OpenMP) | [1](https://cardiff.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=a8a53e68-85be-4fb9-84f3-ac7e017a8caf) [2](https://cardiff.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=39366a99-1b50-4d76-b208-ac7e017a8c09) [3](https://cardiff.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=f6114199-cf1d-437c-bd16-ac7e017a8b91) [4](https://cardiff.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=1fcfb11e-3920-404a-8fcd-ac7f01877dee) |
 | *Introduction to Parallel Programming using MPI* | MPI and distributed memory parallelism. | [Link](intro-mpi) | [1](https://cardiff.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=453e5594-f8e6-4e52-94f1-ac830118349a) [2](https://cardiff.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=52d51e29-eff2-44e0-8a80-ac8401438657) [3](https://cardiff.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=65ddbde2-8828-4189-af05-ac85015397cd) [4](https://cardiff.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=aa36a37c-324b-41c2-944c-ac86015b1534) |
 
-## Registration
+## Register for future courses
 
-The timetable for 2021/22 is now available!
+The timetable for 2022 is now available!
 
 To attend the ARCCA online courses please refer to details below.  For Cardiff University staff, the sessions should be available via CORE, for anyone else please register using the links in the table below.
 
