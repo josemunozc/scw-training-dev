@@ -12,7 +12,15 @@ For weekly ARCCA surgeries please subscribe to the event at [ARCCA Surgery](http
 
 For users at Cardiff Unviersity we also have material at the [ARCCAHub](https://cf.sharepoint.com/teams/ARCCAHub) which is accessible for Cardiff University members and authorised users.
 
-Registration for current courses can be found further down the page.
+## Contents
+
+[Current material](https://arcca.github.io/index.html#current-material)
+
+[Register for future courses](https://arcca.github.io/index.html#register-for-future-courses)
+
+[Videos](https://arcca.github.io/index.html#videos)
+
+[Domain specific](https://arcca.github.io/index.html#domain-specific)
 
 <!-- this is an html comment -->
 
