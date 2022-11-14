@@ -66,7 +66,7 @@ To attend the ARCCA online courses please refer to details below.  For Cardiff U
 | *Introduction to Parallel Programming using OpenMP and MPI* | Learn to use OpenMP and MPI to parallelise your code. | Thu 17th & Fri 18th Nov 2022 | 11 am -1 pm | 2 | [Register](https://forms.office.com/r/7Jc7kQczkC) |
 | *Introduction to Python* | Learn to use Python and migrate your code to our supercomputer. | Thu 24th & Fri 25th Nov 2022 | 11 am -1 pm | 2 | [Register](https://forms.office.com/r/Ed4ugTMr6L) |
 | *Introduction to Machine Learning Applications* | Find out how to run machine learning applications on the supercomputer. | Thu 1st & Fri 2nd Dec 2022 | 11 am - 1 pm | 2 | [Register](https://forms.office.com/r/X1RKMUK9za) |
-| *Advanced Python* | Learn more additional tools to improve your Python scripts | Thu 8th & Fri 9th Dec 2022 | 11 am - 1 pm | 2 | [Register](https://forms.office.com/r/ecQAccGqKt) |
+| *Advanced Python* | Learn additional tools to improve your Python scripts | Thu 8th & Fri 9th Dec 2022 | 11 am - 1 pm | 2 | [Register](https://forms.office.com/r/ecQAccGqKt) |
 | *Introduction to containers and Singularity* | Discover how containers can help your workflow. | Depends on numbers | TBA | 2 | [Register interest](https://forms.office.com/r/78LCQLdaTG) |
 | *Introduction to workflow tool NextFlow* | Find out how to manage workflows within a the NextFlow framework. | Depends on numbers | TBA | 2 | [Register interest](https://forms.office.com/r/hPbC3ZyvGL) |
 
