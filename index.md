@@ -30,19 +30,19 @@ For users at Cardiff Unviersity we also have material at the [ARCCAHub](https://
 
 The timetable for 2022 is now available!
 
-To attend the ARCCA online courses please refer to details below.  For Cardiff University staff, the sessions should be available via CORE, for anyone else please register using the links in the table below.
+To attend the ARCCA online courses please refer to details below.  If you are a member of Cardiff University staff, completion of this course will be recorded on the HR System within 1 month of the course date.
 
 | Title | Description | Date | Time | Number of sessions | Registration link |
 |-------|-------------|------|------|:------------------:|-------------------|
 | *Advanced Research Computing at Cardiff University* | Presentation on what Advanced Research Computing can provide including demonstration of Open OnDemand. | Thu 2nd Feb 2023 | 11 am - 1 pm | 1 | [Register](https://forms.office.com/r/fk1w1PZx1k) |
-| *An Introduction to Linux with Command Line (& Windows)* | Learn how to use the Linux command line. | Wed 8th & Thu 9th Feb 2023 | 11 am – 1 pm | 2 | [Register](https://forms.office.com/r/PCvHHEzCLM) |
-| *An Introduction to Linux Shell Scripting* | Further your knowledge with Linux shell scripting. | Wed 15th & Thu 16th Feb 2023 | 11 am – 1 pm | 2 | [Register](https://forms.office.com/r/FyPUnmbu58) |
-| *Supercomputing for Beginners* | Learn to run jobs on the University supercomputer. | Tue 28th Feb & Thu 2nd Mar 2023 | 11am - 1pm | 2 | [Register](https://forms.office.com/r/e4KDkLpsbx) |
-| *Slurm – Advanced Topics* | Find out further information on using Slurm and the supercomputer. | Wed 8th & Thu 9th Mar 2023 | 11 am - 1 pm | 2 | [Register](https://forms.office.com/r/U9A6nU6Aju) |
-| *Introduction to Parallel Programming using OpenMP and MPI* | Learn to use OpenMP and MPI to parallelise your code. | Wed 15th & Thu 16th Mar 2023 | 11 am - 1 pm | 2 | [Register](https://forms.office.com/r/7Jc7kQczkC) |
-| *Introduction to Machine Learning Applications* | Find out how to run machine learning applications on the supercomputer. | Wed 22nd & Thu 23rd Mar 2023 | 11 am - 1 pm | 2 | [Register](https://forms.office.com/r/X1RKMUK9za) |
-| *Introduction to Python* | Learn to use Python and migrate your code to our supercomputer. | Wed 19th & Thu 20th Apr 2023 | 11 am - 1 pm | 2 | [Register](https://forms.office.com/r/Ed4ugTMr6L) |
-| *Advanced Python* | Learn additional tools to improve your Python scripts | Wed 26th & Thu 27th Apr 2023 | 11 am - 1 pm | 2 | [Register](https://forms.office.com/r/ecQAccGqKt) |
+| *An Introduction to Linux with Command Line (& Windows)* | Learn how to use the Linux command line. | Wed 8th & <br />Thu 9th Feb 2023 | 11 am – 1 pm | 2 | [Register](https://forms.office.com/r/PCvHHEzCLM) |
+| *An Introduction to Linux Shell Scripting* | Further your knowledge with Linux shell scripting. | Wed 15th & <br />Thu 16th Feb 2023 | 11 am – 1 pm | 2 | [Register](https://forms.office.com/r/FyPUnmbu58) |
+| *Supercomputing for Beginners* | Learn to run jobs on the University supercomputer. | Tue 28th Feb & <br />Thu 2nd Mar 2023 | 11am - 1pm | 2 | [Register](https://forms.office.com/r/e4KDkLpsbx) |
+| *Slurm – Advanced Topics* | Find out further information on using Slurm and the supercomputer. | Wed 8th & <br />Thu 9th Mar 2023 | 11 am - 1 pm | 2 | [Register](https://forms.office.com/r/U9A6nU6Aju) |
+| *Introduction to Parallel Programming using OpenMP and MPI* | Learn to use OpenMP and MPI to parallelise your code. | Wed 15th & <br />Thu 16th Mar 2023 | 11 am - 1 pm | 2 | [Register](https://forms.office.com/r/7Jc7kQczkC) |
+| *Introduction to Machine Learning Applications* | Find out how to run machine learning applications on the supercomputer. | Wed 22nd & <br />Thu 23rd Mar 2023 | 11 am - 1 pm | 2 | [Register](https://forms.office.com/r/X1RKMUK9za) |
+| *Introduction to Python* | Learn to use Python and migrate your code to our supercomputer. | Wed 19th & <br />Thu 20th Apr 2023 | 11 am - 1 pm | 2 | [Register](https://forms.office.com/r/Ed4ugTMr6L) |
+| *Advanced Python* | Learn additional tools to improve your Python scripts | Wed 26th & <br />Thu 27th Apr 2023 | 11 am - 1 pm | 2 | [Register](https://forms.office.com/r/ecQAccGqKt) |
 | *Introduction to containers and Singularity* | Discover how containers can help your workflow. | Depends on numbers | TBA | 2 | [Register interest](https://forms.office.com/r/78LCQLdaTG) |
 | *Introduction to workflow tool NextFlow* | Find out how to manage workflows within a the NextFlow framework. | Depends on numbers | TBA | 2 | [Register interest](https://forms.office.com/r/hPbC3ZyvGL) |
 
@@ -50,7 +50,7 @@ To attend the ARCCA online courses please refer to details below.  For Cardiff U
 
 | Title | Description | Date | Time | Number of sessions | Registration link |
 |-------|-------------|------|------|:------------------:|-------------------|
-| NVIDIA DLI - Fundamentals of Accelerated Computing with CUDA Python | Experience using GPUs within Python using latest Nvidia training material | Thu 8th & Fri 9th Dec 2022 | 09:00-13:00 | 2 | [Register interest](https://forms.office.com/r/8D8375dgQQ) |
+| NVIDIA DLI - Fundamentals of Accelerated Computing with CUDA Python | Experience using GPUs within Python using latest Nvidia training material | TBA | 09:00-13:00 | 2 | [Register interest](https://forms.office.com/r/8D8375dgQQ) |
 
 If you have any issues with the above registration methods please email [arcca@cardiff.ac.uk](mailto:arcca@cardiff.ac.uk).
 
