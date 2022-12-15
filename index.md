@@ -14,9 +14,9 @@ For users at Cardiff Unviersity we also have material at the [ARCCAHub](https://
 
 ## Contents
 
-[Current material](https://arcca.github.io/index.html#current-material)
-
 [Register for future courses](https://arcca.github.io/index.html#register-for-future-courses)
+
+[Current material](https://arcca.github.io/index.html#current-material)
 
 [Videos](https://arcca.github.io/index.html#videos)
 
@@ -25,30 +25,6 @@ For users at Cardiff Unviersity we also have material at the [ARCCAHub](https://
 <!-- this is an html comment -->
 
 {% comment %} This is a comment in Liquid {% endcomment %}
-
-## Current material
-
-| Title | Description | Link | Recorded sessions |
-|-------|-------------|------|-----------|
-| *Advanced Research Computing at Cardiff University* | What is advanced research computing?  This presentation provides insights into how it can help your work. | None | [1](https://cardiff.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=72ccdf28-112f-483e-a6e0-acd000c38c68) |
-| *An Introduction to Linux with Command Line* | How to use Linux command line interface effectively. | [Link](An-Introduction-to-Linux-with-Command-Line) | [1](https://cardiff.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=dd8e7441-5b08-47f8-9b7c-ac5200f6a338) [2](https://cardiff.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=631231fc-6293-49d9-bc65-ac530147a846) [3](https://cardiff.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=660ef42c-5025-4a36-a3e7-ac540178b1dd) [4](https://cardiff.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=ad39bd33-a756-4d87-a349-ac55015c925e) |
-| *An Introduction to Linux Shell Scripting* | How to create shell scripts to automatize your work. | [Link](An-Introduction-to-Linux-Shell-Scripting) | [1](https://cardiff.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=642c3ce3-ba6d-4d47-8b0e-ac5b009fb4d8) [2](https://cardiff.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=5a2f8f48-6f33-41b2-ab23-ac5b009fb44a) [3](https://cardiff.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=f084ff32-d5d3-49e5-8591-ac60017be392) [4](https://cardiff.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=9a08cdf4-b117-4a53-b6e2-ac60017be2f2) |
-| *Supercomputing for Beginners* | Why use HPC? Accessing systems, using SLURM, loading software, file transfer and optimising resources. | [Link](hpc-intro) | [1](https://cardiff.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=eb5d36c7-d9c1-434d-91da-ac4c01513755) [2](https://cardiff.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=12d78289-ca3a-49d6-af69-ac4c015136db) [3](https://cardiff.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=79920a44-2d90-49c1-8995-ac4c0151363c) [4](https://cardiff.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=aa2d8177-227f-4195-bd85-ac4c015135bc) |
-| *Slurm: Advanced Topics* | Additional material to interface with HPC more effectively. | [Link](slurm_advanced_topics) | [1](https://cardiff.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=d329500e-b381-409a-a4d4-ac6e0136e7c7) [2](https://cardiff.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=10654eb4-8b79-4749-a29f-ac7100a07fa6) [3](https://cardiff.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=fb78e012-245a-4cf7-b0a6-ac7100a07f1e) [4](https://cardiff.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=15124ba8-876c-4971-89ed-ac76017788fc) |
-| *Introduction to Parallel Programming using OpenMP and MPI* | Learn parallel programming techniques. | [OpenMP Link](Introduction-to-Parallel-Programming-using-OpenMP) and [MPI Link](intro-mpi) | See previous recordings below |
-| *Introduction to Python* | Learn Python and migrate code to our supercomputer. | [Link](https://arcca.github.io/introduction-to-python/) | [1](https://cardiff.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=3bb2b205-8c22-49db-9dc4-adf3013fbbe1) [2](https://cardiff.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=04ad1224-68cd-4f30-b098-adf6009f9916) |
-| *Introduction to Machine Learning Applications* | Machine Learning basics | [Link](An-Introduction-to-Machine-Learning-Applications) | [1](https://cardiff.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=88154b7f-8cfb-48d6-b2f4-ac8a014fa619) [2](https://cardiff.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=e6e3b2b4-68d0-4c0e-81e6-ac8b0104f225) [3](https://cardiff.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=c133aa8b-dbca-4240-8075-ac8d00ce4f3e) [4](https://cardiff.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=d8a67fa8-f04e-4bf7-a0cc-ac8d012c703b)|
-| *Advanced Python* | Additonal topics to increase your Python skills | [Link](https://arcca.github.io/advanced-python/) | TBA |
-| *Introduction to containers and Singularity* | Find out about how software can be packages in containers to aide portability and reproducibility | [Link](intro_singularity) | [1](https://cardiff.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=86b57c6b-97ad-4738-8fa6-ac9100dc55a3) [2](https://cardiff.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=3bf53639-7495-4885-b0b0-ac930006fcc1) [3](https://cardiff.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=2d8a8693-b751-4180-a23e-ac940182cf05) [4](https://cardiff.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=4ea18b8a-2597-4308-9003-ac940182cf6f) |
-| *Introduction to workflow tool NextFlow* | Find out how to manage workflows within a the NextFlow framework. | [Link](intro_nextflow) | [1](https://cardiff.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=2fa834ab-e9a1-4558-84eb-acd000c38bcf) [2](https://cardiff.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=ce1e65c0-814e-4a46-a42a-acd000c38b5d) [3](https://cardiff.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=0370b540-2246-479f-abb2-acd000c38ae2) [4](https://cardiff.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=d6c8d470-28aa-4959-965a-acd000c38a5b) |
-
-## Previous material
-
-| Title | Description | Link | Recorded sessions |
-|-------|-------------|------|-----------|
-| *Advanced use of Hawk the Supercomputer* | Additional material for developers and frequent users. | [Link](hpc-advanced) | No recording(s) |
-| *Introduction to Parallel Programming using OpenMP* | OpenMP and shared memory parallelism. | [Link](Introduction-to-Parallel-Programming-using-OpenMP) | [1](https://cardiff.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=a8a53e68-85be-4fb9-84f3-ac7e017a8caf) [2](https://cardiff.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=39366a99-1b50-4d76-b208-ac7e017a8c09) [3](https://cardiff.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=f6114199-cf1d-437c-bd16-ac7e017a8b91) [4](https://cardiff.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=1fcfb11e-3920-404a-8fcd-ac7f01877dee) |
-| *Introduction to Parallel Programming using MPI* | MPI and distributed memory parallelism. | [Link](intro-mpi) | [1](https://cardiff.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=453e5594-f8e6-4e52-94f1-ac830118349a) [2](https://cardiff.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=52d51e29-eff2-44e0-8a80-ac8401438657) [3](https://cardiff.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=65ddbde2-8828-4189-af05-ac85015397cd) [4](https://cardiff.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=aa36a37c-324b-41c2-944c-ac86015b1534) |
 
 ## Register for future courses
 
@@ -79,6 +55,30 @@ To attend the ARCCA online courses please refer to details below.  For Cardiff U
 If you have any issues with the above registration methods please email [arcca@cardiff.ac.uk](mailto:arcca@cardiff.ac.uk).
 
 **Note**: Due to the automated addition of users to the training event within Microsoft O365, every new attendee added to the event will result in all attendees of the event being notified.  There is currently no suitable workaround. We apologise for the extra communications.
+
+## Current material
+
+| Title | Description | Link | Recorded sessions |
+|-------|-------------|------|-----------|
+| *Advanced Research Computing at Cardiff University* | What is advanced research computing?  This presentation provides insights into how it can help your work. | None | [1](https://cardiff.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=72ccdf28-112f-483e-a6e0-acd000c38c68) |
+| *An Introduction to Linux with Command Line* | How to use Linux command line interface effectively. | [Link](An-Introduction-to-Linux-with-Command-Line) | [1](https://cardiff.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=dd8e7441-5b08-47f8-9b7c-ac5200f6a338) [2](https://cardiff.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=631231fc-6293-49d9-bc65-ac530147a846) [3](https://cardiff.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=660ef42c-5025-4a36-a3e7-ac540178b1dd) [4](https://cardiff.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=ad39bd33-a756-4d87-a349-ac55015c925e) |
+| *An Introduction to Linux Shell Scripting* | How to create shell scripts to automatize your work. | [Link](An-Introduction-to-Linux-Shell-Scripting) | [1](https://cardiff.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=642c3ce3-ba6d-4d47-8b0e-ac5b009fb4d8) [2](https://cardiff.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=5a2f8f48-6f33-41b2-ab23-ac5b009fb44a) [3](https://cardiff.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=f084ff32-d5d3-49e5-8591-ac60017be392) [4](https://cardiff.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=9a08cdf4-b117-4a53-b6e2-ac60017be2f2) |
+| *Supercomputing for Beginners* | Why use HPC? Accessing systems, using SLURM, loading software, file transfer and optimising resources. | [Link](hpc-intro) | [1](https://cardiff.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=eb5d36c7-d9c1-434d-91da-ac4c01513755) [2](https://cardiff.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=12d78289-ca3a-49d6-af69-ac4c015136db) [3](https://cardiff.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=79920a44-2d90-49c1-8995-ac4c0151363c) [4](https://cardiff.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=aa2d8177-227f-4195-bd85-ac4c015135bc) |
+| *Slurm: Advanced Topics* | Additional material to interface with HPC more effectively. | [Link](slurm_advanced_topics) | [1](https://cardiff.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=d329500e-b381-409a-a4d4-ac6e0136e7c7) [2](https://cardiff.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=10654eb4-8b79-4749-a29f-ac7100a07fa6) [3](https://cardiff.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=fb78e012-245a-4cf7-b0a6-ac7100a07f1e) [4](https://cardiff.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=15124ba8-876c-4971-89ed-ac76017788fc) |
+| *Introduction to Parallel Programming using OpenMP and MPI* | Learn parallel programming techniques. | [OpenMP Link](Introduction-to-Parallel-Programming-using-OpenMP) and [MPI Link](intro-mpi) | See previous recordings below |
+| *Introduction to Python* | Learn Python and migrate code to our supercomputer. | [Link](https://arcca.github.io/introduction-to-python/) | [1](https://cardiff.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=3bb2b205-8c22-49db-9dc4-adf3013fbbe1) [2](https://cardiff.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=04ad1224-68cd-4f30-b098-adf6009f9916) |
+| *Introduction to Machine Learning Applications* | Machine Learning basics | [Link](An-Introduction-to-Machine-Learning-Applications) | [1](https://cardiff.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=88154b7f-8cfb-48d6-b2f4-ac8a014fa619) [2](https://cardiff.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=e6e3b2b4-68d0-4c0e-81e6-ac8b0104f225) [3](https://cardiff.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=c133aa8b-dbca-4240-8075-ac8d00ce4f3e) [4](https://cardiff.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=d8a67fa8-f04e-4bf7-a0cc-ac8d012c703b)|
+| *Advanced Python* | Additonal topics to increase your Python skills | [Link](https://arcca.github.io/advanced-python/) | TBA |
+| *Introduction to containers and Singularity* | Find out about how software can be packages in containers to aide portability and reproducibility | [Link](intro_singularity) | [1](https://cardiff.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=86b57c6b-97ad-4738-8fa6-ac9100dc55a3) [2](https://cardiff.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=3bf53639-7495-4885-b0b0-ac930006fcc1) [3](https://cardiff.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=2d8a8693-b751-4180-a23e-ac940182cf05) [4](https://cardiff.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=4ea18b8a-2597-4308-9003-ac940182cf6f) |
+| *Introduction to workflow tool NextFlow* | Find out how to manage workflows within a the NextFlow framework. | [Link](intro_nextflow) | [1](https://cardiff.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=2fa834ab-e9a1-4558-84eb-acd000c38bcf) [2](https://cardiff.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=ce1e65c0-814e-4a46-a42a-acd000c38b5d) [3](https://cardiff.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=0370b540-2246-479f-abb2-acd000c38ae2) [4](https://cardiff.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=d6c8d470-28aa-4959-965a-acd000c38a5b) |
+
+## Previous material
+
+| Title | Description | Link | Recorded sessions |
+|-------|-------------|------|-----------|
+| *Advanced use of Hawk the Supercomputer* | Additional material for developers and frequent users. | [Link](hpc-advanced) | No recording(s) |
+| *Introduction to Parallel Programming using OpenMP* | OpenMP and shared memory parallelism. | [Link](Introduction-to-Parallel-Programming-using-OpenMP) | [1](https://cardiff.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=a8a53e68-85be-4fb9-84f3-ac7e017a8caf) [2](https://cardiff.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=39366a99-1b50-4d76-b208-ac7e017a8c09) [3](https://cardiff.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=f6114199-cf1d-437c-bd16-ac7e017a8b91) [4](https://cardiff.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=1fcfb11e-3920-404a-8fcd-ac7f01877dee) |
+| *Introduction to Parallel Programming using MPI* | MPI and distributed memory parallelism. | [Link](intro-mpi) | [1](https://cardiff.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=453e5594-f8e6-4e52-94f1-ac830118349a) [2](https://cardiff.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=52d51e29-eff2-44e0-8a80-ac8401438657) [3](https://cardiff.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=65ddbde2-8828-4189-af05-ac85015397cd) [4](https://cardiff.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=aa36a37c-324b-41c2-944c-ac86015b1534) |
 
 ## Videos
 
