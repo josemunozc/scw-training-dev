@@ -28,9 +28,11 @@ For users at Cardiff Unviersity we also have material at the [ARCCAHub](https://
 
 ## Register for future courses
 
-The timetable for 2022 is now available!
+The timetable for 2022-23 is now available!
 
 To attend the ARCCA online courses please refer to details below.  If you are a member of Cardiff University staff, completion of this course will be recorded on the HR System within 1 month of the course date.
+
+For information on how to login to Zoom see: [Cardiff University Zoom help pages](https://intranet.cardiff.ac.uk/students/applications/help/zoom)
 
 | Title | Description | Date | Time | Number of sessions | Registration link |
 |-------|-------------|------|------|:------------------:|-------------------|
