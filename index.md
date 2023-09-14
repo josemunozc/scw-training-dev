@@ -30,9 +30,9 @@ For users at Cardiff Unviersity we also have material at the [ARCCAHub](https://
 
 The timetable for Autumn/Winter 2023 is now available!
 
-To attend the ARCCA sessions please refer to details below, now with in-person and remote options (technology permitting).  If you are a member of Cardiff University staff, completion of this course will be recorded on the HR System within 1 month of the course date.
+To attend the ARCCA sessions please refer to details below, now with in-person (room availability permitting) and online options (technology permitting).  If you are a member of Cardiff University staff, completion of this course will be recorded on the HR System within 1 month of the course date.
 
-For information on how to login to Zoom see: [Cardiff University Zoom help pages](https://intranet.cardiff.ac.uk/students/applications/help/zoom)
+We are now using a Microsoft Teams method to delivery the online aspect.  The registration states its online, the description includes the in-person option.
 
 | Title | Description | Date | Time | Number of sessions | Registration link |
 |-------|-------------|------|------|:------------------:|-------------------|
