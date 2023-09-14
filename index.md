@@ -28,23 +28,23 @@ For users at Cardiff Unviersity we also have material at the [ARCCAHub](https://
 
 ## Register for future courses
 
-The timetable for 2022-23 is now available!
+The timetable for Autumn/Winter 2023 is now available!
 
-To attend the ARCCA online courses please refer to details below.  If you are a member of Cardiff University staff, completion of this course will be recorded on the HR System within 1 month of the course date.
+To attend the ARCCA sessions please refer to details below, now with in-person and remote options (technology permitting).  If you are a member of Cardiff University staff, completion of this course will be recorded on the HR System within 1 month of the course date.
 
 For information on how to login to Zoom see: [Cardiff University Zoom help pages](https://intranet.cardiff.ac.uk/students/applications/help/zoom)
 
 | Title | Description | Date | Time | Number of sessions | Registration link |
 |-------|-------------|------|------|:------------------:|-------------------|
-| *Introduction to Python* | Learn to use Python and migrate your code to our supercomputer. | Tue 3rd Oct 2023 | 09:00-13:00 | 1 | TBA |
-| *Advanced Python* | Learn additional tools to improve your Python scripts | Tue 10th Oct 2023 | 09:00-13:00 | 1 | TBA |
-| *Introduction to Machine Learning Applications* | Find out how to run machine learning applications on the supercomputer. | Tue 17th Oct 2023 | 09:00-13:00 | 1 | TBA |
-| *Advanced Research Computing at Cardiff University* | Presentation on what Advanced Research Computing can provide including demonstration of Open OnDemand. | Tue 31st Oct 2023 | 11:00-13:00 | 1 | TBA |
-| *An Introduction to Linux with Command Line (& Windows)* | Learn how to use the Linux command line. | Tue 7th Nov 2023 | 09:00-13:00 | 1 | TBA |
-| *An Introduction to Linux Shell Scripting* | Further your knowledge with Linux shell scripting. | Tue 14th Nov 2023 | 09:00-13:00 | 1 | TBA |
-| *Supercomputing for Beginners* | Learn to run jobs on the University supercomputer. | Tue 21st Nov 2023 | 09:00-13:00 | 1 | TBA |
-| *Slurm – Advanced Topics* | Find out further information on using Slurm and the supercomputer. | Tue 28th Nov 2023 | 09:00-13:00 | 1 | TBA |
-| *Introduction to Parallel Programming using OpenMP and MPI* | Learn to use OpenMP and MPI to parallelise your code. | Tue 5th Dec 2023 | 09:00-13:00 | 1 | TBA |
+| *Introduction to Python* | Learn to use Python and migrate your code to our supercomputer. | Tue 3rd Oct 2023 | 09:00-13:00 | 1 | [Link](https://events.teams.microsoft.com/event/05f2f56d-4d69-4936-91ee-3126ed49368a@bdb74b30-9568-4856-bdbf-06759778fcbc) |
+| *Advanced Python* | Learn additional tools to improve your Python scripts | Tue 10th Oct 2023 | 09:00-13:00 | 1 | [Link](https://events.teams.microsoft.com/event/49d4e232-ea39-486b-99f4-687da1d99724@bdb74b30-9568-4856-bdbf-06759778fcbc) |
+| *Introduction to Machine Learning Applications* | Find out how to run machine learning applications on the supercomputer. | Tue 17th Oct 2023 | 09:00-13:00 | 1 | [Link](https://events.teams.microsoft.com/event/d44f1f9a-abd2-4dce-9b2c-c25924ece50f@bdb74b30-9568-4856-bdbf-06759778fcbc) |
+| *Advanced Research Computing at Cardiff University* | Presentation on what Advanced Research Computing can provide including demonstration of Open OnDemand. | Tue 31st Oct 2023 | 11:00-13:00 | 1 | [Link](https://events.teams.microsoft.com/event/ae07ae42-0bbc-4ff2-b918-bfe35dfffec8@bdb74b30-9568-4856-bdbf-06759778fcbc) |
+| *An Introduction to Linux with Command Line (& Windows)* | Learn how to use the Linux command line. | Tue 7th Nov 2023 | 09:00-13:00 | 1 | [Link](https://events.teams.microsoft.com/event/7b9904df-3477-41a0-8ebb-5d1c55612582@bdb74b30-9568-4856-bdbf-06759778fcbc) |
+| *An Introduction to Linux Shell Scripting* | Further your knowledge with Linux shell scripting. | Tue 14th Nov 2023 | 09:00-13:00 | 1 | [Link](https://events.teams.microsoft.com/event/fdb1f0a3-e1a4-4841-9822-6f0216424a00@bdb74b30-9568-4856-bdbf-06759778fcbc) |
+| *Supercomputing for Beginners* | Learn to run jobs on the University supercomputer. | Tue 21st Nov 2023 | 09:00-13:00 | 1 | [Link](https://events.teams.microsoft.com/event/63779570-a0e0-4fdb-96fb-cb96b25bf4c4@bdb74b30-9568-4856-bdbf-06759778fcbc) |
+| *Slurm – Advanced Topics* | Find out further information on using Slurm and the supercomputer. | Tue 28th Nov 2023 | 09:00-13:00 | 1 | [Link](https://events.teams.microsoft.com/event/ef1c9772-c993-4e04-a7e0-78ed471ac744@bdb74b30-9568-4856-bdbf-06759778fcbc) |
+| *Introduction to Parallel Programming using OpenMP and MPI* | Learn to use OpenMP and MPI to parallelise your code. | Tue 5th Dec 2023 | 09:00-13:00 | 1 | [Link](https://events.teams.microsoft.com/event/583713ec-836a-48c0-9afa-b93956184eea@bdb74b30-9568-4856-bdbf-06759778fcbc) |
 | *Introduction to containers and Singularity* | Discover how containers can help your workflow. | Depends on numbers | TBA | 2 | [Register interest](https://forms.office.com/r/78LCQLdaTG) |
 | *Introduction to workflow tool NextFlow* | Find out how to manage workflows within a the NextFlow framework. | Depends on numbers | TBA | 2 | [Register interest](https://forms.office.com/r/hPbC3ZyvGL) |
 
@@ -52,7 +52,7 @@ For information on how to login to Zoom see: [Cardiff University Zoom help pages
 
 | Title | Description | Date | Time | Number of sessions | Registration link |
 |-------|-------------|------|------|:------------------:|-------------------|
-| NVIDIA DLI - Fundamentals of Accelerated Computing with CUDA Python | Experience using GPUs within Python using latest Nvidia training material | Tue 24th & <br />Wed 25th Oct 2023 | 09:00-13:00 | 2 | TBA |
+| NVIDIA DLI - Fundamentals of Accelerated Computing with CUDA Python | Experience using GPUs within Python using latest Nvidia training material | Tue 24th & <br />Wed 25th Oct 2023 | 09:00-13:00 | 2 | [Link](https://events.teams.microsoft.com/event/5cb144a9-d30e-46ec-b0a0-c9785a3fe925@bdb74b30-9568-4856-bdbf-06759778fcbc) |
 
 If you have any issues with the above registration methods please email [arcca@cardiff.ac.uk](mailto:arcca@cardiff.ac.uk).
 
