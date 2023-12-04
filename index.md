@@ -45,8 +45,8 @@ We are now using a Microsoft Teams method to delivery the online aspect.  The re
 | *Supercomputing for Beginners* | Learn to run jobs on the University supercomputer. | Tue 21st Nov 2023 | 09:00-13:00 | 1 | [Link](https://events.teams.microsoft.com/event/63779570-a0e0-4fdb-96fb-cb96b25bf4c4@bdb74b30-9568-4856-bdbf-06759778fcbc) |
 | *Slurm – Advanced Topics* | Find out further information on using Slurm and the supercomputer. | Tue 28th Nov 2023 | 09:00-13:00 | 1 | [Link](https://events.teams.microsoft.com/event/ef1c9772-c993-4e04-a7e0-78ed471ac744@bdb74b30-9568-4856-bdbf-06759778fcbc) |
 | *Introduction to Parallel Programming using OpenMP and MPI* | Learn to use OpenMP and MPI to parallelise your code. | Tue 5th Dec 2023 | 09:00-13:00 | 1 | [Link](https://events.teams.microsoft.com/event/583713ec-836a-48c0-9afa-b93956184eea@bdb74b30-9568-4856-bdbf-06759778fcbc) |
-| *Introduction to containers and Singularity* | Discover how containers can help your workflow. | Tue 12th Dec 2023 (virtual only) | 09:00-13:00 | 1 | [Link](https://events.teams.microsoft.com/event/f92ab768-fa39-4806-84c3-af5dde1ba150@bdb74b30-9568-4856-bdbf-06759778fcbc) |
-| *Introduction to workflow tool NextFlow* | Find out how to manage workflows within a the NextFlow framework. | Thu 14th Dec 2023 (virtual only) | 09:00-13:00 | 1 | [Link](https://events.teams.microsoft.com/event/14688fcb-58e3-45a9-a16f-06437b035fe5@bdb74b30-9568-4856-bdbf-06759778fcbc) |
+| *Introduction to containers and Singularity* | Discover how containers can help your workflow. | Tue 12th Dec 2023 (virtual only) | 09:00-12:30 | 1 | [Link](https://events.teams.microsoft.com/event/f92ab768-fa39-4806-84c3-af5dde1ba150@bdb74b30-9568-4856-bdbf-06759778fcbc) |
+| *Introduction to workflow tool NextFlow* | Find out how to manage workflows within a the NextFlow framework. | Thu 14th Dec 2023 (virtual only) | 09:00-12:30 | 1 | [Link](https://events.teams.microsoft.com/event/14688fcb-58e3-45a9-a16f-06437b035fe5@bdb74b30-9568-4856-bdbf-06759778fcbc) |
 
 **Special event**
 
