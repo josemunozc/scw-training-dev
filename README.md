@@ -1,40 +1,33 @@
-# FIXME Lesson title
+# General instructions to contribute
 
-[![Create a Slack Account with us](https://img.shields.io/badge/Create_Slack_Account-The_Carpentries-071159.svg)](https://swc-slack-invite.herokuapp.com/)
+Clone this repo your local computer.
 
-This repository generates the corresponding lesson website from [The Carpentries](https://carpentries.org/) repertoire of lessons. 
+This repo uses the Software Carpentries lesson template, so for local deployment
+follow the instructions at https://carpentries.github.io/lesson-example/setup.html
 
-## Contributing
+Test chages locally, push to master branch.
 
-We welcome all contributions to improve the lesson! Maintainers will do their best to help you if you have any
-questions, concerns, or experience any difficulties along the way.
+Discuss/agree changes and objectives over Slack and SCW tech calls.
 
-We'd like to ask you to familiarize yourself with our [Contribution Guide](CONTRIBUTING.md) and have a look at
-the [more detailed guidelines][lesson-example] on proper formatting, ways to render the lesson locally, and even
-how to write new episodes.
+## Current objectvies
 
-Please see the current list of [issues][FIXME] for ideas for contributing to this
-repository. For making your contribution, we use the GitHub flow, which is
-nicely explained in the chapter [Contributing to a Project](http://git-scm.com/book/en/v2/GitHub-Contributing-to-a-Project) in Pro Git
-by Scott Chacon.
-Look for the tag ![good_first_issue](https://img.shields.io/badge/-good%20first%20issue-gold.svg). This indicates that the maintainers will welcome a pull request fixing this issue.  
-
+- Review and adapt current ARCCA lessons to make them applicable to other SCW universities:
+    - An Introduction to Linux with Command Line (& Windows)
+    - An Introduction to Linux Shell Scripting
+    - Supercomputing for Beginners
+    - Slurm – Advanced Topics
+    - Introduction to Python
+    - Advanced Python
+    - Introduction to Machine Learning Applications
+    - Introduction to Parallel Programming using OpenMP and MPI
+- Agree on best method to advertise training sessions (e.g. Email, Zoom, etc).
+- Agree on suitable training schedule (e.g. 1 session (4h) per course, 2 sesions (2x2h) per
+  course, etc.).
 
 ## Maintainer(s)
 
-Current maintainers of this lesson are 
+Current maintainers of this repo are 
 
+* Jose Javier Munoz Criollo
 * FIXME
 * FIXME
-* FIXME
-
-
-## Authors
-
-A list of contributors to the lesson can be found in [AUTHORS](AUTHORS)
-
-## Citation
-
-To cite this lesson, please consult with [CITATION](CITATION)
-
-[lesson-example]: https://carpentries.github.io/lesson-example
